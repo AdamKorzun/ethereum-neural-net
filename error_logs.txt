@@ -1,0 +1,10 @@
+Tue Nov  3 00:02:09 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Tue Nov  3 00:02:10 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:14 2020:	'charmap' codec can't encode character '\U0001f4b5' in position 0: character maps to <undefined>-data/ethereum-eth-addresses-holding-between-1-10-rises-to-15-million.txt
+Tue Nov  3 00:02:14 2020:	'charmap' codec can't encode character '\U0001f92f' in position 0: character maps to <undefined>-data/ethereum-on-track-to-become-the-1st-blockchain-to-settle-1t-in-a-year.txt

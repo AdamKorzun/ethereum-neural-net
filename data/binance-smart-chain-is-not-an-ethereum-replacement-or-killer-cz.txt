@@ -1,0 +1,18 @@
+Quick take:
+CZ has clarified once again that the Binance Smart Chain is not a replacement or killer of Ethereum
+He believes ETH2.0 will be awesome when launched and BSC is more like ETH1.8
+Transactions on the Binance Smart Chain are 100% backward compatible, faster and have lower fees when compared to Ethereum
+According to DappRadar, the transaction volume of Binance Smart Chain has risen to $853 million since its official launch in August
+Binance CEO, Changpeng Zhao, has once again clarified that the Binance Smart Chain (BSC) was not built to replace Ethereum or kill the latter popular network. CZ also forecasted that ETH2.0 will be ‘awesome when it comes out’. He also pointed out that the Binance Smart Chain is more like ETH1.8 due to the fact that it is backward compatible, faster and has 97% lower fees when compared to the current Ethereum network. CZ made the clarification regarding BSC via the following tweet.
+#BSC is not a #ETH replacement or killer. I believe ETH 2.0 will be awesome, when it comes out… Until then,#BSC is more like a #ETH 1.8. 100% backward compatible, faster and lower fees (97% lower).
+— CZ Binance (@cz_binance) October 29, 2020
+
+CZ’s comments reiterate what he said back in May of this year when he explained that the Binance Smart Chain was not competing with the Ethereum network. Back then, he stated that BSC is Ethereum compatible and the Binance Smart Chain aims at complementing Ethereum.
+Since its official launch at the end of August this year, the Binance Smart Chain has become the home of popular DeFi platforms that have led to a significant increment in the network’s transaction volume. According to DappRadar, 24 Dapps are currently live on the BSC chain. The team at DappRadar further provided a summary of the platform’s achievement as follows.
+BSC daily active wallets grew by 45% in October 2020.
+BSC total transaction volume increased by 40% reaching $853 million in October 2020.
+The most significant dapps in regards to daily active wallets and transaction volume are PancakeSwap, BakerySwap, and BSCSwap.
+Although CZ has clarified that the Binance Smart Chain is no competitor of Ethereum, the team at DappRadar suggests that BSC could gather a significant market share of the DeFi space in the weeks and months ahead.
+Binance Smart Chain might offer competition to Ethereum in the upcoming weeks and months in regard to the developing DeFi Ecosystem.
+PancakeSwap, BakerSwap, and BSCSwap are the biggest contributors to the BSC protocol surge in both daily active wallets and transaction volume.
+Not only do the results of exciting dapps prove the chain to be very relevant. The current [$100 million Binance] fund dedicated to DeFi projects has proved to be a strong positioning statement for Binance in the DeFi ecosystem.

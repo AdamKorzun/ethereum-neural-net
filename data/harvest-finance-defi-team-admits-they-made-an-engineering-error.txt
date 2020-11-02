@@ -1,0 +1,19 @@
+Quick take:
+An experienced ‘defi farmer’ used flash loans to drain Harvest Finance of $24 Million in just 7 minutes
+The team behind Harvest Finance have admitted they made an engineering error when designing the protocol
+They’ve issued a $100k bounty to any person or team that helps in returning the funds
+Harvest Finance has requested major exchanges such as Binance, to blacklist several Bitcoin addresses
+Early yesterday, the DeFi industry was rocked by news of a hacker who managed to exploit the Harvest Finance protocol using flash loans.
+According to the post-mortem of the incident from the team at Harvest Finance, the attacker exploited the protocol using arbitrage and impermanent loss of USDC and USDT inside the Y Pool and Curve.fi to carry out the hack.
+The exploit of Harvest Finance only took seven minutes with the hacker walking away with $24 million. The exploit caused a total loss of $33.8 million for Harvest Finance as explained below.
+The share price of the USDC vault decreased from 0.980007 to 0.834953, and the share price of the USDT vault dropped from 0.978874 to 0.844812, resulting in the decrease of 13.8% 13.7%, respectively.
+The value lost is about $33.8 million, which corresponded to approximately 3.2% of the total value locked in the protocol at the time before the attack.
+Less than 24 hrs after the attack, the team at Harvest Finance has admitted that they made an engineering error when designing the protocol. Furthermore, they are formulating a plan to remedy the issue for all affected users of Harvest Finance. The team has also requested the attacker to return the funds so that users can be compensated.
+The attacker has proven their point. If they can return the funds to the users, it would be greatly appreciated by the community. Returning the funds to affected users is the focus.
+We made an engineering mistake, we own up to it. Thousands of people are acting as collateral damage, so we humbly request the attacker to return funds to the deployer, where it will be distributed back to the users in its entirety.
+Harvest Finance Team also claim to Have Substantial Information About the Hacker and are offering a $100,000 bounty on any individual or team who will help in returning the funds. If the return is made in 36 hours, the bounty will be increased to $400k.
+With respect to the identity of the attacker, the team at Harvest Finance has explained that s/he made several transactions into known deposit addresses that belong to Binance. They have also alerted popular exchanges such as Binance, Coinbase, Huobi, OKEx, Kraken and Bitfinex, to blacklist several Bitcoin addresses that were used to siphon off funds using renBTC.
+Please blacklist these addresses, thank you@binance @coinbase @HuobiGlobal @OKEx @krakenfx @FTX_Official @bitfinex @BittrexExchange
+— Harvest Finance (@harvest_finance) October 26, 2020
+
+The Harvest Finance hack comes in the wake of several rug pulls and hacks in the DeFi industry in the past few months. This means that there will be more incidences in the future and DeFi investors are advised to do additional research as well as making a habit of investing in DeFi protocols that have been properly audited.
