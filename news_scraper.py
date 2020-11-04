@@ -13,6 +13,14 @@ def get_page_urls(url):
             if ('category' in resp_url or 'wp-content' in resp_url or '-' not in resp_url):
                 continue
             final_urls.append(resp_url)
+    if ('blog.ethereum.org' in url):
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        tags = soup.find_all('a')
+        for tag in tags:
+            url_from_tag = tag.get('href')
+            if (re.search(r'\d\d\d\d/', url_from_tag)):
+                final_urls.append(url + url_from_tag)
     return final_urls
 
 
@@ -24,6 +32,14 @@ def get_page_content(url):
         result = soup.find_all("div", {"class":"entry-content body-color clearfix link-color-wrap"},'html.parser')[0]
         soup = BeautifulSoup(str(result),'html.parser')
         tags = soup.find_all(['p','li'])
+        for tag in tags:
+            text_from_tags.append(tag.text.strip())
+    if ('blog.ethereum.org' in url):
+        response = requests.get(url).text
+        soup = BeautifulSoup(response,'html.parser')
+        result = soup.find_all("article", {"class":"blog-post"},'html.parser')[0]
+        soup = BeautifulSoup(str(result),'html.parser')
+        tags = soup.find_all(['p'])
         for tag in tags:
             text_from_tags.append(tag.text.strip())
     return text_from_tags
@@ -54,19 +70,28 @@ def get_news(data_path, main_url,url_list_path):
     url_list = get_url_list(url_list_path)
     for url in urls:
         if (url not in url_list):
-            write_to_file(data_path + url.split('/')[3] + '.txt', get_page_content(url))
+            print('URL: ' + url)
+            file_name = ''
+            if ('en.ethereumworldnews.com' in url):
+                file_name = url.split('/')[3]
+            if ('blog.ethereum.org' in url):
+                file_name = url.split('/')[7]
+            write_to_file(data_path + file_name + '.txt', get_page_content(url))
             with open(url_list_path,'a') as file:
                 file.write(url + '\n')
 
-
 if __name__ == '__main__':
-    last_checked_time = time.time()
+    REQUEST_TIMER = 300
+    last_checked_time = 0
     url_list_path = 'url_list.txt'
-    main_url = 'https://en.ethereumworldnews.com/category/news/latest-ethereum-eth-news/'
+    main_url_list = ['https://en.ethereumworldnews.com/category/news/latest-ethereum-eth-news/','https://blog.ethereum.org/']
+    #https://en.ethereumworldnews.com/category/news/latest-ethereum-eth-news/
+
     while True:
-        if (time.time() - last_checked_time > 300):
-            try:
-                get_news('data/',main_url,url_list_path)
-            except Exception as e:
-                print(str(e))
+        if (time.time() - last_checked_time > REQUEST_TIMER):
+            for main_url in main_url_list:
+                try:
+                    get_news('data/',main_url,url_list_path)
+                except Exception as e:
+                    print(str(e))
             last_checked_time = time.time()

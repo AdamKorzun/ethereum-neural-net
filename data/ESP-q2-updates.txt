@@ -1,0 +1,16 @@
+
+Hello again! We’re back to share the grants that went out over the second quarter of 2020 - but first, some ESP updates from the last few months:
+We’re writing about grants today, but grants are not the only kind of support ESP can offer! We recently published a blog post featuring some amazing teams that you won’t find on the list below, since they received support other than the traditional grants highlighted here.
+Meanwhile, the community has put on some awesome virtual events that really are the next best thing to the in-person gatherings that we’ve all been missing - and in some ways, even better. Through some of these events the ESP team has had the opportunity to connect with hackers and attendees all over the world; check out recordings of our presentations at ETHGlobal’s HackMoney and HackFS, Gitcoin’s Protect Privacy, and ETHPlanet’s EDCON.
+Last but not least, we added a “pinboard” to our Wishlist page, where you can find some specific challenges posed by the eth2 team. If you want to make a unique contribution to eth2, this is a great place to start!
+And now, without further ado, here’s our list of grant recipients in Q2:
+Total Q2 allocations: $3,884,000
+This list represents non-recurring funding from across the EF, including grants via our public inquiry process, delegated domain allocations and third-party funding (types B, C and D as defined in the EF Spring Update). As always, it’s a privilege to work with these amazing projects and so many more.
+Keep up with future ESP news by following us on Twitter @ef_esp or signing up for our newsletter. And as always, we’d love to chat about how we might be able to support you in your own work - just get in touch at esp.ethereum.foundation/en/project!
+[1] https://blog.ethereum.org/2020/09/08/esp-q2-updates/
+[2] https://twitter.com/EF_ESP/status/1278415354860109826?s=20
+[3] https://www.youtube.com/watch?v=9flngu_INh8&list=PLXzKMXK2aHh7BbAiN8QgCUq49mQQOTJlE&index=3
+[4] https://www.youtube.com/watch?v=rB1K8I2bif0
+[5] https://www.youtube.com/watch?v=t5DYSVtpgjE&feature=youtu.be
+[6] https://www.youtube.com/watch?v=qGcntbdThHA&feature=youtu.be&t=6
+[7] https://esp.ethereum.foundation/en/wishlist/#pinboard

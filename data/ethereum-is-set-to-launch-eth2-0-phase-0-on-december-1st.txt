@@ -1,0 +1,12 @@
+Summary:
+ETH2.0 Phase 0 will be launched on the 1st of December
+v1.0 of ETH2.0’s specifications are available online
+The mainnet deposit contract address is live
+A minimum of 16,384 32 ETH validator deposits are required 7 days prior to December 7 to trigger the genesis event of ETH2.0
+The team behind the development of Ethereum’s ETH2.0 has released an update on the progress of the upgrade. According to the team, Phase 0 of the ETH2.0 upgrade will be launched on the 1st of December this year. Additionally, the specifications of the first version of ETH2.0 were also published which include the mainnet deposit contract address for staking.
+Today, we released v1.0 of the eth2 specs, including the mainnet deposit contract address – 0x00000000219ab540356cBB839Cbe05303d7705Fa. eth2 will have a MIN_GENESIS_TIME of 1606824000 (or for those of you who don’t think in unix time – December 1, 2020, 12pm UTC).
+Furthermore, the Genesis of Phase 0 will need at least 16,284 validator deposits of 32 ETH each to trigger the event. The required ETH deposits also need to be in the deposit contract 7 days prior to December 1st as explained below.
+To trigger genesis at this time, there must be at least 16384 32-ETH validator deposits 7 days prior to December 1. If not, genesis will be triggered 7 days after this threshold has been met (whenever that may be). For a more detailed discussion of how genesis is kicked off, see Ben Edgington’s genesis writeup.
+Earlier today, it was highlighted that the code for ETH2.0’s deposit contract for staking was posted in GitHub. Additionally, it was predicted that if the deposit contract were legitimate, the price of Ethereum would attempt to break the $400 price level soon after.
+At the time of writing, Ethereum is currently trading at $405 with its bullish momentum also being aided by Bitcoin breaking the important $14k resistance level.
+Therefore, and as December 1st draws closer, Ethereum could very well break another important resistance level at $420 and usher in a new path towards retesting $500.
