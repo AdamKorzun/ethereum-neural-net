@@ -16,10 +16,75 @@ ethdata.pop('Symbol')
 ethdata.pop('VolumeETH')
 ethdata.pop('VolumeUSD')
 
+class NeuralNetwork:
+    raw_train_ds = None
+    raw_test_ds = None
+    encoder = None
+    model = None
+    batch_size=None
+    epocs = None
+    def load_data(self, article_data_path, batch_size, training_labels,testing_labels,seed, validation_split = 0.2):
+        self.batch_size = batch_size
+        self.raw_train_ds = tf.keras.preprocessing.text_dataset_from_directory(
+            article_data_path,
+            batch_size=batch_size,
+            labels=training_labels,
+            validation_split=validation_split,
+            subset='training',
+            seed=seed)
+        self.raw_test_ds = tf.keras.preprocessing.text_dataset_from_directory(
+            article_data_path,
+            labels=testing_labels,
+            batch_size=batch_size)
+    def standardize_data(self, vocab_size):
+        def custom_standardization(input_data):
+            lowercase = tf.strings.lower(input_data)
+            lowercase = tf.strings.unicode_decode(lowercase, 'UTF-8',errors='replace', replacement_char=32)
+            lowercase = tf.strings.unicode_encode(lowercase, 'UTF-8',errors='replace', replacement_char=32)
+            converted_string = tf.strings.regex_replace(lowercase, r'\n', ' ')
+            return tf.strings.regex_replace(converted_string,
+                                          '[%s]' % re.escape(string.punctuation),
+                                          '')
+        self.encoder = tf.keras.layers.experimental.preprocessing.TextVectorization(
+            standardize=custom_standardization,
+            max_tokens=vocab_size)
+    def train_model(self, checkpoint_filepath, saved_model_filepath, epochs):
+        model_checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
+            filepath=checkpoint_filepath,
+            save_weights_only=True,
+            monitor='val_loss',
+            mode='min',
+            save_best_only=True)
+        self.encoder.adapt(self.raw_train_ds.map(lambda text, label: text))
+        self.model = tf.keras.Sequential([
+            self.encoder,
+            tf.keras.layers.Embedding(
+                input_dim=len(self.encoder.get_vocabulary()),
+                output_dim=64,
+                mask_zero=True),
+            tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
+            tf.keras.layers.Dense(64, activation='relu'),
+            tf.keras.layers.Dense(1)
+        ])
+        self.model.compile(loss=tf.keras.losses.MeanSquaredLogarithmicError(),
+                      optimizer=tf.keras.optimizers.Adam(1e-4),
+                      metrics=['MeanSquaredLogarithmicError'])
+        self.model.fit(self.raw_train_ds, epochs=self.epochs,
+                            validation_data=self.raw_test_ds,
+                            callbacks=[model_checkpoint_callback],
+                            steps_per_epoch = len(list(self.raw_train_ds)) / self.batch_size,
+                            validation_steps=30)
+        self.model.save(saved_model_filepath)
+
 
 article_data_path = 'data/articles/'
 checkpoint_filepath = 'model/checkpoint/'
 saved_model_filepath = 'model/saved_model/'
+
+if (not os.path.isdir(checkpoint_filepath)):
+    os.mkdir(checkpoint_filepath)
+if (not os.path.isdir(saved_model_filepath)):
+    os.mkdir(saved_model_filepath)
 
 def get_labels(file_path):
     timestamp_list = []
@@ -43,76 +108,9 @@ def get_labels(file_path):
         price_change_list.append(price_change)
     return price_change_list
 
-
+vocab_size=1000
 batch_size = 1
-seed = 42
-
-raw_train_ds = tf.keras.preprocessing.text_dataset_from_directory(
-    article_data_path,
-    batch_size=batch_size,
-    labels=get_labels('data/articles/training'),
-    validation_split=0.2,
-    subset='training',
-    seed=seed)
-
-raw_test_ds = tf.keras.preprocessing.text_dataset_from_directory(
-    article_data_path,
-    labels=get_labels('data/articles/training'),
-    batch_size=batch_size)
-
-def custom_standardization(input_data):
-    lowercase = tf.strings.lower(input_data)
-    lowercase = tf.strings.unicode_decode(lowercase, 'UTF-8',errors='replace', replacement_char=32)
-    lowercase = tf.strings.unicode_encode(lowercase, 'UTF-8',errors='replace', replacement_char=32)
-    converted_string = tf.strings.regex_replace(lowercase, r'\n', ' ')
-    return tf.strings.regex_replace(converted_string,
-                                  '[%s]' % re.escape(string.punctuation),
-                                  '')
-
-BUFFER_SIZE = 10000
-
-train_dataset = raw_train_ds.shuffle(BUFFER_SIZE).batch(batch_size).prefetch(tf.data.experimental.AUTOTUNE)
-test_dataset = raw_test_ds.batch(batch_size).prefetch(tf.data.experimental.AUTOTUNE)
-VOCAB_SIZE=1000
-
-encoder = tf.keras.layers.experimental.preprocessing.TextVectorization(
-    standardize=custom_standardization,
-    max_tokens=VOCAB_SIZE)
-
-encoder.adapt(raw_train_ds.map(lambda text, label: text))
-
-
-if (not os.path.isdir(checkpoint_filepath)):
-    os.mkdir(checkpoint_filepath)
-if (not os.path.isdir(saved_model_filepath)):
-    os.mkdir(saved_model_filepath)
-
-model_checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
-    filepath=checkpoint_filepath,
-    save_weights_only=True,
-    monitor='val_loss',
-    mode='min',
-    save_best_only=True)
-
-def create_model():
-    model = tf.keras.Sequential([
-        encoder,
-        tf.keras.layers.Embedding(
-            input_dim=len(encoder.get_vocabulary()),
-            output_dim=64,
-            mask_zero=True),
-        tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
-        tf.keras.layers.Dense(64, activation='relu'),
-        tf.keras.layers.Dense(1)
-    ])
-    model.compile(loss=tf.keras.losses.MeanSquaredLogarithmicError(),
-                  optimizer=tf.keras.optimizers.Adam(1e-4),
-                  metrics=['MeanSquaredLogarithmicError'])
-    return model
-model = create_model()
-history = model.fit(raw_train_ds, epochs=1,
-                    validation_data=raw_test_ds,
-                    callbacks=[model_checkpoint_callback],
-                    steps_per_epoch = len(list(raw_train_ds)) / batch_size,
-                    validation_steps=30)
-model.save('model/saved_model')
+model = NeuralNetwork()
+model.load_data(article_data_path, batch_size, get_labels(article_data_path + '/training'),get_labels(article_data_path + '/training'),42)
+model.standardize_data(vocab_size)
+model.train_model(checkpoint_filepath = 'model/checkpoint/', saved_model_filepath, epochs = 1)
