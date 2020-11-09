@@ -1,0 +1,14 @@
+Quick take:
+Development on the Ethereum network has reached a 7-month high
+This could be related to the continual DApp building in the DeFi industry
+Ethereum’s price in the crypto markets is once again flirting with $400
+Ethereum’s development activity has reached a 7-month high. This is according to an analysis done by the team at Santiment feed. The last time Ethereum’s Github development activity was this high, was in February 2020. This increment in development activity further cements Ethereum as the choice network for DApp developers. Below is the tweet by the team at Santiment announcing their observation of the ETH network.
+@santimentfeed is indicating that #Ethereum is reaching #Github development rates not seen since February (a 7-month high)!$ETH continues to make its case as the most highly innovative network in #crypto, including the many ERC-20's under its umbrella. https://t.co/QcE1g1xeOK pic.twitter.com/25H7E83Ooj
+— Santiment (@santimentfeed) September 13, 2020
+
+The DeFi industry is one sure reason why development on the Ethereum network is at a 7-month high. A quick glance at DeFiPulse.com reveals that almost all DeFi projects on the ranking website, are built on Ethereum. Furthermore, the top three have over $1 Billion in total value locked. This implies that such DeFi platforms have large communities who constantly chime in on protocol improvements that get published on Github.
+One needs only to remember that both Yam Finance (YAM) and SushiSwap underwent migrations, to further grasp the level of development activity on the Ethereum network.
+Also worth mentioning is that the Ethereum network is undergoing an upgrade of its own. Development activity related to ETH2.0 could also be a factor as to why it has risen to a 7-month high.
+With the aforementioned launch of ETH2.0 estimated for November this year, the price of Ethereum (ETH) is once again in bullish territory after breaking the crucial $365 resistance level and turning it into support. At the time of writing, Ethereum is trading at $386 and looks set to challenge the $400 resistance zone in the hours or days to follow.
+However, as with all digital assets, the price of Ethereum is still highly correlated with Bitcoin. Therefore, its fortunes are very much tied to those of BTC. Additionally, Bitcoin’s fortunes are tied to the stock markets. Therefore, the environment in both markets needs to be conducive enough for ETH to thrive.
+As with all analyses of Ethereum, traders and investors are advised to use adequate stop losses and low leverage when trading ETH on the various derivatives platforms.

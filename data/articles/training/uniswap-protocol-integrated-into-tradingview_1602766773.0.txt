@@ -1,0 +1,33 @@
+Quick take:
+Tradingview has added charts for trading pairs on the Uniswap protocol
+Typing ‘UNISWAP:’ into the Tradingview search box populates the top 100 symbols by Liquidity
+Uniswap continues to dominate the Decentralized Exchange industry
+Traders and investors using the UniSwap Protocol can now chart their favorite trading pairs on TradingView. Users of TradingView need only type ‘Uniswap:’ to access the top 100 trading pairs on UniSwap by liquidity. The team at TradingView announced the integration of UniSwap onto the charting platform via the following tweet.
+Type UNISWAP: into the search box to see the top 100 symbols by liquidity.
+— TradingView (@tradingview) October 14, 2020
+
+The team at Uniswap was enthusiastic about the addition of the protocol on TradingView as can be seen in the following screenshot of their response to the TradingView announcement.
+The integration of Uniswap into TradingView marks another important milestone for the popular Ethereum based decentralized exchange. Earlier this week, the team at UniSwap highlighted the following achievements of the protocol on their Twitter homepage.
+Over 100k Twitter followers
+32k discord members
+5.3k governance forum members
+9.4k subreddit users
+200+ integrations
+1592 governance delegates
+200k UNI claimers
+88k UNI holders
+393k unique addresses
+14M trades
+14.8k trading pairs
+1000+ new pairs per week
+30B all-time volume
+90M all time LP fees
+2.9B in liquidity
+25% of all Ethereum transactions
+182 socks redeemed
+$5.1M socks traded
+The Uniswap team also thanked all users of the protocol for their continual support.
+We’re so grateful to the Uniswap community and thrilled to see it growing, thriving, and empowering so many people around the world.
+In terms of market performance, UniSwap (UNI) is ranked 35th on Coinmarketcap with a market capitalization of $560 Million. Such a high ranking is also another noteworthy milestone given that UniSwap (UNI) token was only launched a month ago on 17th September.
+UNI is currently trading at $3.02 which is a 64.2% drop from its all-time high value of $8.44 set on the 18th of September. A quick glance at the 4-hour chart of UNI/USDT reveals that the token could be gearing up for a few bullish days having experienced a local bottom around $2.45 on October 6th.
+However, due to a very short trading history of one month, there is very little historical data to provide a comprehensive macro analysis of the future price of UniSwap (UNI). But going by the strong fundamentals shared above, UniSwap (UNI) could be gearing up for a very bright future in the crypto-markets.

@@ -1,0 +1,20 @@
+Quick take:
+Ethereum gas fees are at a record high
+This has resulted in many exchanges going at a loss with each withdrawal of ETH
+CZ has estimated exchanges are losing $10 – $20 with each Ethereum withdrawal
+He has hinted of a possible increment in Ethereum withdrawal fees on Binance if the issue persists
+Binance CEO, Changpeng Zhao, has explained on Twitter that the high ETH gas cost on the Ethereum network is hurting crypto exchanges with every withdrawal by users. CZ explained that most exchanges are experiencing $10 – $20 loss per withdrawal due to the platform’s fixed ETH withdrawal fees that do adjust with the activity on the Ethereum network. CZ further hinted that Ethereum withdrawal fees would have to be adjusted sooner or later.
+Below is the tweet by CZ explaining the situation faced by crypto exchanges due to high ETH gas cost.
+The high ETH network gas fees is causing problems for most exchanges, running with $10-20 loss on each withdrawal.
+— CZ Binance (@cz_binance) September 1, 2020
+
+According to Etherescan.io, it currently costs an average of 500 Gwei – approximately $5 – to have your Ethereum transaction processed on the network. For Ethereum users who want to have their transaction expedited, they currently have to part with at least 549 Gwei ($5.49).
+Below is a screenshot from Etherscan demonstrating this fact.
+
+As earlier explained, the expansion of the DeFi industry is happening at warp speed. At the center of the activity is Uniswap. Two days ago, Uniswap’s 24-hour volume exceeded that of Coinbase. This means that there is a high number of traders and yield farmers using Uniswap to trade their tokens and thus causing congestion in the Ethereum network.
+Judging by the fact that Uniswap continues to experience high volume, it can be loosely concluded that high ETH fees might become the norm in the Ethereum ecosystem.
+Furthermore, the entrance of SushiSwap means that Ethereum traders now have a second platform to swap their tokens in a decentralized manner.
+According to the team at Unfolded, the trade volume on Decentralized Exchanges has exceeded $10 Billion in the last 30 days further providing evidence that congestion on Ethereum will continue. Below is the tweet by Unfolded demonstrating this fact.
+DEX volume last 30 days over $10 billion pic.twitter.com/oKek37QkmP
+— Unfolded (@cryptounfolded) August 31, 2020
+

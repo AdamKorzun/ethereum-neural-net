@@ -1,0 +1,27 @@
+In brief:
+Ethereum investors could be in for another tumultuous ride as ETH2.0 faces possible delays.
+One estimate pushes the launch to January 2021.
+The Ethereum Community wants ETH2.0 launched in 2020.
+ETH/USDT risks losing the crucial $200 support zone due to FUD related to the delay.
+From the beginning of the year, Ethereum analysts and traders had been weighing in on the possibility of the launch of ETH2.0 not happening in July this year. The first signs of a possible delay were witnessed in mid-May when Ethereum’s Vitalik Buterin clarified his comments during a Consensus interview where he seemed to agree on a July launch. In his explanation of his remarks during the interview, Vitalik explained that he had ‘misheard’ the question about the launch date of ETH2.0 and only confirmed that the upgrade was on track.
+One reason for a postponement is the fact that ETH2.0 has too many ‘moving parts’ and synchronizing all the teams for a July launch is next to impossible. The fears of a possible delay were confirmed during a recent Reddit Ask-Me-Anything session where Ethereum Foundation researcher, Justin Drake, gave a new launch date of January 3rd, 2021. He explained the following:
+Below are some of the things I want to see before genesis:
+a public testnet with 3+ clients running smoothly for 2-3 months
+an incentivised “attack net” running for 2-3 months (teased here—more details soon)
+a bug bounty program similar to bounty.ethereum.org running for 2-3 months
+serious differential fuzzing across clients (see here)
+All the above cannot happen in Q3 2020. With Thanksgiving on November 26 and the December holidays I’d say the latest practical opportunity for genesis in 2020 is mid-November, 4 months from now. As such, I’m now inclined to say that the earliest practical date for genesis is something like January 3, 2021 (Bitcoin’s 12th anniversary).
+The impact of a new launch date of January 2021 could have a negative effect on the price of Ethereum. Over the years, ETH2.0 has been pushed forward several times with some investors choosing to ignore the FUD by playing the long game with Ethereum.
+
+
+Further checking the daily ETH/USDT chart, the following can be observed.
+ETH/USDT is still within the earlier identified descending parallel channel but yet to confirm a bull flag.
+Trade volume is in the red with the daily MACD showing some signs of weakness.
+MFI is high at 71 and could point to exhaustion for Ethereum.
+However, ETH’s current price of $239 is above the 50-day, 100-day and 200-day moving averages hinting of some bullishness.
+The 200-Day moving average provides adequate support at around $195. This level could be where Ethereum is headed if the push to 2021 is confirmed.
+However, there is a slight chance that ETH2.0 might be kick-started sometime in 2020. Ethereum Foundation researcher Justin Drake took to Twitter to explain that the Etheruem community’s voice had been heard and a 2020 launch fo ETH2.0 was still very much possible. Such a move will allay any fears that ETH2.0 will be delayed until 2021 and Ethereum will maintain its value above $200.
+The community wants phase 0 genesis in 2020—not one day late. The goal is set; let's ship.
+— Justin Ðrake (@drakefjustin) July 11, 2020
+
+

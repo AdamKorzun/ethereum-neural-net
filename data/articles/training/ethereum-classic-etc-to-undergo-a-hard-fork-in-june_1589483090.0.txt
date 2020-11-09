@@ -1,0 +1,15 @@
+In brief:
+The Ethereum Classic network will undergo a network upgrade in June.
+The hard fork, named ‘Phoenix’, will facilitate complete compatibility between the Ethereum and Ethereum Classic network.
+The team at Ethereum Classic Labs (ETC Labs) and its ETC core developer team have announced that the Ethereum Classic network will undergo a network upgrade known as ‘Phoenix’. The hard fork will be carried out at block number 10,500,839. The event is estimated to happen around the 3rd of June this year.
+The team further elaborated that the network upgrade will enhance EVM capabilities thus allowing for the Ethereum and Ethereum Classic networks to become fully compatible. The hard fork will include the Ethereum Instanbul upgrades on the Ethereum Classic network. The team further elaborated on this as follows.
+Phoenix will be inclusive of the Ethereum Istanbul network protocol upgrades on the Ethereum Classic network. With this update, various opcodes will be added to Ethereum Classic, all of which have been in use on Ethereum networks since the end of 2019. Phoenix follows the successful Atlantis and Agharta hard forks in the last several months.
+ETC Labs CEO, Terry Culver, explained the importance of the upgrade to the Ethereum Classic ecosystem.
+The upgrade also marks an important turning point for Ethereum Classic, where now the community is in a position to drive more innovation, to collaborate, and to make fresh technical contributions to the ETC and ETH communities.
+Additionally, all Ethereum Classic testnets have successfully implemented the Phoenix upgrade. The team is now on a path of releasing the hard fork on the Mainnet. The schedule for the hard fork is as follows.
+Mordor Testnet which was activated on Block 999,983. This was successfully carried out on March 9th.
+Kotti Testnet was activated on April 15th at block 2,200,013.
+ETC Phoenix Mainnet activation at block number 10,500,839. This is estimated to happen around the 3rd of June this year.
+More on the schedule can be found here.
+As with all network upgrades, crypto traders and investors are aware of the potential for the digital asset concerned with the hard fork to have a knee jerk reaction in the markets. In the case of Ethereum Classic, the Phoenix hard fork will happen at a time when Bitcoin is experiencing a resurgence in the crypto markets after its halving event. Therefore for ETC to rally, one has to have an eye out on the price action of Bitcoin to have a better feel as to whether the environment will be fit for Ethereum Classic to exhibit bullish momentum leading up to the hard fork in early June.
+(Feature image courtesy of Unsplash.)

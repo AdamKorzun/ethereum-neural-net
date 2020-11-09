@@ -1,0 +1,16 @@
+In brief:
+The Filecoin (FIL) mainnet is still on track for a Q3 launch.
+CoinList to be the primary distributor of Filecoin tokens.
+To kick start development on the platform, a virtual hackathon has been launched by ETHGlobal and Protocol labs.
+The event is meant to provide an environment for developers to build DApps for a decentralized web.
+$125,000 in prizes is up for grabs.
+The mainnet launch of the Filecoin (FIL) project is still on course for a Q3 2020 release. This means that the wait since 2017 by investors and fans of Filecoin, will finally come to an end with a complete project. Below is a screenshot of the project roadmap providing a mainnet launch window of between mid-July and mid-August of 2020.
+
+Furthermore, the team at Filecoin announced that CoinList will be the primary distribution channel for Filecoin tokens. CoinList also plans on supporting Filecoin (FIL) trading and other network participation directly through users’ CoinList Wallets.
+With the Mainnet launch window a few weeks away, the team at Filecoin has kicked off a virtual hackathon by ETHGlobal and Protocol labs. The main goal of the hackathon is to kick start development of decentralized applications, developer tools and other projects that use decentralized storage. Below is a tweet by the team at Filecoin announcing the hackathon back in mid-June.
+— Filecoin (@Filecoin) June 17, 2020
+
+Participants of the hackathon will have a chance to work with an experienced number of mentors and judges such as Ethereum’s Vitalik Buterin and Protocol Labs’ Juan Benet. A screenshot of the full list of judges and mentors can be found below.
+
+At the time of writing this, registration for the Hackathon is still ongoing with the development activities are set to start on the 6th of July till the 6th of August. Successful participants will receive various prizes worth a total of $125,000.
+However, activities related to the hackathon begun on the 1st of July through a series of online lectures and presentations from the team at Protocol labs. Interested developers and crypto enthusiasts can watch the virtual Hackathon via Youtube using this link.

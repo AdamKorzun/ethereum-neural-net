@@ -1,0 +1,17 @@
+Quick take:
+DeFi monthly active users have hit a new milestone of 292,000 in the month of August
+This is according to the team at Zapper.fi
+Furthermore, weekly active users have peaked at 99,686
+Daily active users have almost hit 20k
+These figures dispel the notion that DeFi is only for whales
+The number of DeFi monthly users has hit a new milestone. This is according to the Co-Founder of Zapper.fi, Seb Audet who shared the findings via the following tweet.
+DeFi has 20k users they said@zapper_fi MAUs @ 292k for August
+
+In the chart embedded in the tweet, it can be seen that the number of DeFi users has skyrocketed in the month of August after stable growth in June and July.
+Additionally, Mr. Audet broke down the numbers in terms of weekly and daily active users. In the case of the former, he gave a figure of 99,686 Weekly active users. In terms of daily active users, the figure stands at 19,287. Below are the two tweets highlighting these numbers.
+DAUs pic.twitter.com/kbOrD8VoPG
+
+From the first chart, it can be observed that DeFi users shot up to 292,000 in the month of August. This feat throws out the earlier assumption that DeFi was solely an activity for whales. This group of crypto investors was thought to be the only ones who could afford the high ETH gas fees during Ethereum’s network congestion.
+However, with Tether now operating on the OMG transport layer, congestion of the Ethereum network has considerably reduced with the average ETH transaction currently costing around $0.58.
+Zapper.fi is an online platform that allows DeFi users to manage their assets from one simple interface. The platform was created as a result of DeFiSnap and DeFiZap coming together to provide a unique experience for DeFi users.
+Zapper.fi currently offers integration with 19 popular DeFi platforms which include Uniswap, Curve, Compound, Balancer, Maker, Synthetix, 1Inch, Aave, dYdX, Fulcrum, Ox and more. It also supports popular wallets such as Metamask, Trust, Formatic, Coinbase, imToken and WalletConnect.

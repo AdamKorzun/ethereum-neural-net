@@ -1,0 +1,16 @@
+Quick summary:
+The popularity of DeFi and Decentralized Exchanges since June 2020, has led to Ethereum experiencing high ETH fees
+Miners are reaping big from these Ethereum transactions thus attracting new miners to the network
+The value of Ethereum will continue to benefit positively from the demand to pay transactions with ETH
+The team at Coinmetrics has released this week’s SOTN (State of The Network) report in which they highlight that the rise of DeFi has increased Ethereum’s hash rate towards all-time highs. Furthermore, high ETH fees paid by users to confirm transactions on the Ethereum network are incentivizing more miners to join the network.
+The team at Coinmetrics shared their observation of the Ethereum network via the following statement.
+The rise of DeFi has pushed Ethereum hash rate towards all-time highs.
+With transaction fees surging, more miners are incentivized to join the network.
+Additionally, the high ETH fees paid out to miners mean that they are further incentivized to secure the network which is good for the long-term well-being of the Ethereum blockchain.
+The fees are ultimately paid to miners, so high total fees create more incentive to secure the Ethereum blockchain.
+Ethereum miner revenue hit new highs over the summer due to the rise in fees, and as a result Ethereum hash rate is climbing towards all-time highs.
+This is a good sign for Ethereum, as network security is critical for the long-term health and success of the blockchain.
+As earlier mentioned, the quick rise of Decentralized Finance projects such as UniSwap (UNI), Yearn Finance (YFI) and more, has caused a similar demand for ETH to power transactions on these protocols. The demand for ETH has had a positive effect on the price of Ethereum.
+The team at Coinmetrics has captured this fact and explained that it all begun with Yearn Finance.
+The rise of DeFi has brought on a wave of new tokens including some breakouts. The start of ETH’s summer bull run coincided with the launch of yearn.finance’s governance token YFI.
+Furthermore, the report by Coinmetrics provided the following chart highlighting the launch of each DeFi project and its effect on the price of Ethereum.

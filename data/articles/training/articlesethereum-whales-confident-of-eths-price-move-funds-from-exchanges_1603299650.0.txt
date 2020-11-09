@@ -1,0 +1,13 @@
+Summary:
+The top 10 Ethereum whales have been moving their ETH from exchanges to non-custodial wallets
+Exchanges have seen a 20.5% decrease in ETH for the past 2 months
+The movement of Ethereum out of exchanges is proof that whales and retail investors are confident regarding ETH’s long term value
+The price of Ethereum has received a major boost from the news of PayPal supporting digital assets in the US
+The top ten Ethereum whales have been moving their ETH out of exchanges and into non-custodial wallets. This is according to data from the team at Santiment feed who also point out that exchanges have witnessed a 20.5% decrease in ETH for the past two months. This fact, coupled with whales moving their Ethereum from exchange wallets means that ETH investors are confident regarding the long term price of the digital asset. Below is the analysis by the team at Santiment.
+— Santiment (@santimentfeed) October 19, 2020
+
+In terms of plausible explanations, the first that comes to mind is that Ethereum investors are anticipating the launch of ETH2.0 before the end of the year. By moving their Ethereum out of exchanges, they can prepare for staking ETH once ETH2.0 is released. Furthermore, moving the Ethereum out of exchanges early enough avoids possible congestion issues during the day of ETH2.0’s launch.
+Secondly, roughly a total of $11.27 Billion is locked in DeFi platforms. This amount includes 9.2 Million Ethereum which translates to approximately $3.64 Billion using ETH’s current rate of $395. This amount in ETH is particularly impressive and not surprising since all popular DeFi protocols operate on the Ethereum network. Whales and retail investors could be moving their ETH out of exchanges to capitalize on higher returns from yield farming.
+In terms of the current price, Ethereum has benefited positively from the news that PayPal has partnered with Paxos to provide digital asset services on the PayPal payment platform. The roll-out of the PayPal crypto service will initially be available to users in the United States who will have access to the popular digital assets of Bitcoin, Ethereum (ETH), Bitcoin Cash (BCH) and Litecoin (LTC). Eventually, PayPal plans on having the crypto service available to its over 346 million global users.
+This news has provided the fuel for Ethereum to zoom past the $390 resistance level and could be gearing up for a retest of $400. If $400 broken and the launch of ETH2.0 confirmed this year, the price of Ethereum could very much hit the $500 level after the November elections.
+As with all analyses of Ethereum, traders and investors are advised to use stop losses and low leverage when trading Ethereum on the multiple derivatives platforms.

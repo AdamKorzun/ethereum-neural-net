@@ -1,0 +1,12 @@
+While Ethereum users have found a number of use cases for the blockchain since its creation, it seems that one use case is eclipsing most of the rest: decentralized finance, better known as DeFi. The data corroborates this.
+In a recent report shared with this outlet from DApp.com, a cryptocurrency data provider, it was revealed that Ethereum DeFi has been a massive industry over Q3 of 2019, and seems poised to continue this trend.
+The report found that the “wave of DeFi” has facilitated massive growth in Ethereum decentralized application (dApp) users, with there being over “310,000 new dApp users in a quarter, the highest of all time so far.”
+That’s not all. Some 132,000 users of Ethereum-based finance applications this quarter, making DeFi the most popular dApp category by far. Also, 58% of the volume of Ethereum dApp transactions in Q3 was related to DeFi — “with a total volume of over 2,275,000 ETH, worth over $466 million.”
+
+The reports that DeFi usage is growing at a rapid pace comes as money has started to flood into this facet of the cryptocurrency space.
+Per previous reports from Ethereum World News, InstaDApp, a DeFi portal that aggregates major protocols “using a smart wallet layer and bridge contracts”, has bagged some $2.4 million in funding from investors like Coinbase Ventures, Pantera Capital, Robot Ventures, and IDEO Colab, prominent Silicon Valley investor Naval Ravikant, former Coinbase executive Balaji Srinivasan, “amongst many others”.
+Similarly, Coinbase revealed in September that it would be investing 1 million USDC into the markets of two leading DeFi applications built on Ethereum, Compound and dYdX. Coinbase claims that this initiative, dubbed the “USDC Bootstrap Fund”, will help support the developers building these products. Coinbase product manager Nemil Dalal said on the interesting project:
+“The USDC tokens we deposit cannot be used for items like salaries or user acquisition. It simply provides more liquidity in the protocol, making it easier to attract borrowers (for decentralized lending protocols) and takers (for decentralized exchanges.”
+On the consumer side, the amount of locked ETH in contracts for this ecosystem has hit an all-time high, nearing some three million tokens. Just look to the chart from DeFi Pulse below.
+
+All this goes to show that DeFi isn’t a waning fad. Far from.

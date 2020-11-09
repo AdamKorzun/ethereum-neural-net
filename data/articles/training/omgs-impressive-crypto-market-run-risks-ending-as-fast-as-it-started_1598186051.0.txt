@@ -1,0 +1,19 @@
+In brief:
+OMG’s price seems to be running out of gas in the crypto markets.
+Its price surge came as a result of Tether announcing it was issuing USDT on the OMG network.
+As a result, OMG shot to an all-time high value of $9.80 and a few cents shy of $10.
+However, its impressive run in the markets might be headed to an abrupt end.
+On Wednesday, August 19th, the team at Tether announced that they were going to issue USDT on the OMG network transport layer. The move was aimed at reducing high transaction fees on the ETH network that have skyrocketed as a result of the DeFi boom.
+We are pleased to announce that Tether (USDt) is live on the OMG Network transport layer.
+— Tether (@Tether_to) August 19, 2020
+
+Before the announcement was made, OMG was trading a few cents shy of the $3 price level. However, when the crypto-verse caught wind of the news and the impact of USDT running on the OMG transport layer in terms of reducing the cost of ETH transactions, the price of OMG took off to new heights.
+On Friday 21st August, OMG set a yearly peak of $9.80 – Binance rate – which is 20 cents shy of the $10 price mark. This move was an impressive 226% increment in value in less than three days.
+However, OMG seems to be running out of gas in the crypto-markets and has since experienced a pullback that began on the day of the all-time high value. The pullback has been abated briefly by a ‘Dead Cat Bounce’ at $5.24. At the time of writing, OMG is trading at $6.29 and looks set to continue correcting in the crypto markets.
+
+Further checking the 6-hour OMG/USDT chart courtesy of Tradingview, the following can be observed.
+OMG’s parabolic move is showing signs of exhaustion.
+Trade volume has decreased with the 6-hour MACD pointing towards more selling.
+MFI is high at 69 and also points towards a correction.
+In terms of support levels, areas of interest include $5.24, $4.67, $4.05, $3.77 and $3.53.
+As with all analyses of altcoins such as OMG Network (OMG), traders and investors are advised to have an eye out for any sudden Bitcoin price movement that might skew their analysis. Additionally, stop losses and low leverage are advised when trading OMG on the various derivatives platforms.

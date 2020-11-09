@@ -1,6 +1,6 @@
 Summary:
-ETH2.0 Phase 0 will be launched on the 1st of December
-v1.0 of ETH2.0’s specifications are available online
+ETH 2.0 Phase 0 will be launched on the 1st of December
+v1.0 of ETH 2.0’s specifications are available online
 The mainnet deposit contract address is live
 A minimum of 16,384 32 ETH validator deposits are required 7 days prior to December 7 to trigger the genesis event of ETH2.0
 The team behind the development of Ethereum’s ETH2.0 has released an update on the progress of the upgrade. According to the team, Phase 0 of the ETH2.0 upgrade will be launched on the 1st of December this year. Additionally, the specifications of the first version of ETH2.0 were also published which include the mainnet deposit contract address for staking.

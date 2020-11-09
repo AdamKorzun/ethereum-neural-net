@@ -1,0 +1,13 @@
+In summary:
+Ethereum breaks $400 again, a record-high since mid-2018
+The number of Ethereum active addresses surpasses mid-19 levels
+Research shows that Active addresses positively influence ETH price
+Ethereum (ETH) is gaining more than 3% to cross the coveted 400$ barrier for the second time this month. Yesterday, Ethereum reached a closing price of 390.66$ (CoinMetrics), a record-high since July 2018 amid spikes in the number of ETH active addresses and transactions. According to data analytics firm Glassnode, the number of daily active addresses crossed the 482,000 levels last week, a year-high value and the highest since mid-2019.
+High Relationship between ETH’s Price and Active Addresses
+Since the beginning of the year, ETH price and the number of active addresses are correlated at 60.9% while, during 2019, this relationship was higher – slightly over 76% – showing a high relationship between Ethereum’s price and the number of active addresses holding ETH.
+Active Addresses Influence ETH’s Price
+Our analyses reveal that, in 2020, when the number of active ETH addresses increase by 1%, its price increases, on average, by 0.18% the same day. As such, investors have available another on-chain metric that allows to have a statistically significant relationship with returns, allowing to define intraday strategies.
+On the same line, in 2019, this relationship was as significant as in 2020, but of a lower magnitude: when the number of active ETH addresses would increase by 1%, its price would increase, on average, by 0.07% the same day.
+Will ETH’s Price Reach 500$?
+Since the start of the year, Ethereum beat Bitcoin as the best performing asset, more than doubling Bitcoin’s cumulative returns during that period. ETH has maintained a long-term positive trend, setting new yearly-highs, since the March crash.
+Ethereum is challenging mid-July 2018 price levels with crypto executives as BITMEX’s CEO predicting a new yearly-record at 500$. On-chain indicators as the Ethereum’s mean hash rate, transaction count and the number of active addresses are also approaching record-levels since the start of the year, suggesting future growth.

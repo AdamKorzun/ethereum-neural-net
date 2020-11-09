@@ -1,0 +1,21 @@
+In brief:
+The team at Weiss Ratings has cautioned investors against using Tether (USDT)
+They cite that USDT is not 100% backed by fiat and Tether is running like a fractional reserve bank
+They recommend USDC which is subject to constant audits and 100% backed
+DAI is also an alternative given its transparency via smart contracts
+The team at Weiss Ratings has provided a hard-hitting recommendation to crypto-traders by suggesting that they should avoid exposure to the stablecoin of Tether (USDT). The team at Wiess shared this insight via Twitter and explained that USDT is not 100% backed by fiat as the parent company claims. Furthermore, Tether is run like a fractional reserve bank and its balances are held in private back accounts that are not publicly auditable.
+Below is the tweet providing the recommendation by the team at Weiss Ratings against Tether (USDT).
+#Bitfinex's vaults are not publicly auditable and there have been many allegations that #USDT is not 100% backed, and that it is run like a fractional reserve bank. Because of this, we recommend you avoid exposure to #Tether.
+— Weiss Crypto Ratings (@WeissCrypto) September 24, 2020
+
+Weiss Ratings went on to provide an alternative to Tether (USDT) in the form of USD Coin (USDC). According to the team at Weiss, USDC is subject to regular audits from at least five accounting firms and their tokens are 100% backed by fiat owned by the parent company.
+Unlike USDT, #USDC is subject to audits from at least five accounting firms. Based on these reports, USDC is more than 100% backed — which is why it is presently our preferred #stablecoin.
+The team also recommended the usage of Dai (DAI) by explaining that it is governed by smart contracts that are easily tracked.
+DAI is pegged to the U.S. dollar not by the promises of its issuer, but by smart contracts that use market forces to enforce and maintain the peg.
+These smart contracts are transparent and auditable, so anyone who wants to dig into the matter can see how they’re supposed to operate
+Wiess Ratings’ recommendations are similar to those made by veteran traders Peter Brandt, in mid-August, where he warned that Tether was an accident waiting to happen as seen in the original tweet below.
+Tether is an accident waiting to happen. Tether is just another fiat currency.
+— Peter Brandt (@PeterLBrandt) August 11, 2020
+
+However, the parent company of Tether has brushed off all the warnings against USDT. Additionally, Tether is very much an essential cog in the DeFi machine and its demand has resulted in the increment of USDT’s market cap to over $15 Billion.
+At the time of writing, Tether’s total asset value stands at $15.388 Billion. This figure was around $4 Billion at the beginning of 2020 which means that its market cap is on a path to increase by a factor of four by the end of the year.

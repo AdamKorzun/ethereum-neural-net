@@ -1,0 +1,16 @@
+Quick take:
+The total value locked in DeFi has dropped by 22% from its peak of $9.512 Billion
+The drop coincides with the recent crypto market sell-off that hit DeFi tokens hardest
+Additionally, the SushiSwap debacle might have accelerated an exodus of investors from DeFi
+The total value locked in DeFi platforms has taken a huge hit by falling 22% since its peak value of $9.512 Billion. The reduction of assets locked in DeFi platforms was captured by the team at Unfolded via the following Tweet which also noted that this was DeFi’s first major correction.
+First major DeFI correction down -22% from the peak pic.twitter.com/F6GPOmLVhZ
+— unfolded. (@cryptounfolded) September 6, 2020
+
+To note is that the drop in the total value of digital assets locked in DeFi begun around the 2nd of September after a peak value of $9.512 Billion. This coincides with the earlier observed crypto market sell-off that saw Bitcoin fall from $12k levels and retest $10,000 on four separate occasions.
+There have been two plausible theories as to why Bitcoin fell as hard as it did. Firstly, it is suspected that Bitcoin miners from China dumped their bags of BTC on multiple crypto exchanges. Secondly, it is known that Bitcoin is highly correlated to the stock market that has also experienced considerable losses in the past week.
+Furthermore, the backbone of the DeFi industry, Ethereum (ETH), was also hard hit by the fall of Bitcoin due to its correlation to BTC. Yield farmers most likely decided it was time to exit to save their profits as explained in the following tweet.
+The reason $ETH so much weaker than $BTC right now is because how much was locked in all these defi trap vaults and few were sold on the way up. Now, all these farmers rush to unstake and sell because aint no APY worth a decline -35% in 3 days. Welcome to reality, nerds
+— Edward Morra (@edwardmorra_btc) September 5, 2020
+
+Coincidentally, as the crypto markets were taking a beating, Chef Nomi of SushiSwap admitted to having sold his SUSHI bags. In his defense, Chef Nomi stated that he did for the community and selling his SUSHI was similar to how Charlie Lee sold his Litecoin bag to focus more on the project and community development.
+Chef Nomi’s exit could have accelerated an investor exodus from DeFi platforms in fear that other project administrators might pull a similar move.

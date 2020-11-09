@@ -1,0 +1,21 @@
+Bitcoin has done amazingly well over the past 50 or so days, rallying from $6,400 to $10,300 as of the time of writing this.
+But Ethereum, the second-largest crypto, has done even better than the market leader, which comes in stark contrast to the negative yearly performance ETH posted for 2019.
+
+But why? What is driving the popular altcoin so much higher than its ilk?
+Well, it seemingly has to do with a confluence of both technical and fundamental factors.
+On Tuesday, Reuters reported that JP Morgan & Chase — one of the world’s most powerful financial institutions and an extremely valuable company — is looking to merge its blockchain unit called Quorum with that of ConsenSys, the Ethereum-centric blockchain development studio known for its work on Infura, MetaMask, and other key products in the industry.
+Prominent cryptocurrency trader and commentator Satoshi Flipper said the following on the potential business deal, expressing how bullish it is:
+So why is this so bullish for Ethereum? Because cash is king and JPMorgan has much of it. With the pending release of 2.0, JPMorgan could desire an increased presence in the enterprise blockchain arena.
+So why is this so bullish for #Ethereum?
+Because cash is king and JPMorgan has much of it.
+With the pending release of 2.0, JPMorgan could desire an increased presence in the enterprise blockchain arena.
+And #Ethereum is a quick ticket to get there. https://t.co/giJ7JS6oOv
+— Satoshi Flipper (@SatoshiFlipper) February 11, 2020
+
+That’s not the only thing that may be supporting ETH’s rally higher.
+On the technical analysis side of things, the cryptocurrency has printed a number of key signals: the one-week Heiken Ashi candles have flipped green, implying a bullish trend; and the 50-day exponential moving average just crossed above the 200-day, forming a golden cross pattern implying more upside is imminent.
+Despite Ethereum’s strong performance and the positive fundamental trend, there are some skeptical of altcoins as an investment, especially in a backdrop where Bitcoin is the be-all and end-all of the crypto industry.
+In a recent Twitter thread, Mike Novogratz, CEO of Galaxy Digital and formerly of Goldman Sachs, explained why he thinks XRP and altcoins as a whole are unlikely to be 2020’s best crypto-centric investment opportunities.
+He attributed his position — which has been reflected in his personal investment decision to be “almost solely long BTC for the past 15 months” — to his view that as more institutional accounts get educated, Bitcoin will gain more of the spotlight:
+“That said, I see more and more large accounts getting educated and set up to be accumulators of BTC, and believe on a risk-adjusted basis it’s the best place to bet on crypto.”
+Novogratz added that Bitcoin is the only cryptocurrency with a bonafide use case of being a digital store of value, adding that the rest of the crypto assets are “venture bets” at best “and will only have lasting value if they become a product that is useful.”

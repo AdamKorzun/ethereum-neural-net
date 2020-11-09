@@ -1,0 +1,19 @@
+Quick take:
+In Q2 2020, the Ethereum network witnessed a significant increment in ETH addresses.
+DeFi is fuelling a surge in activity on the Ethereum network.
+Interest in Decentralised Finance has led to an increment in the number of active ETH addresses.
+In the second quarter of 2020, the Ethereum network witnessed a significant increment of new ETH addresses. According to the team at CoinMetrics, at the beginning of April, there were 7.2 million addresses holding at least 0.01 ETH. This number had increased by 1.25 million by July 1st and now stands at 8.37 million Ethereum addresses. The team highlighted the increment via the following tweet and accompanying chart.
+On April 1st there were 7.12M addresses holding at least 0.01 ETH.
+By July 1st there were over 8.37M, a growth of about 1.25M addresses.
+Read more in this week's State of the Network:https://t.co/nIK3xlBeoR pic.twitter.com/Uap55PZmxD
+— CoinMetrics.io (@coinmetrics) July 8, 2020
+
+Furthermore, the team at Coinmetrics went on to analyze the Ethereum addresses and concluded that active ones had increased by 8.1% in over a week. This translated to over 500,000 addresses and the last time the Ethereum network experienced such activity, was in January of 2018 when ETH hit its all-time high value of $1,432.
+ETH had over 500K active addresses each of the last seven days. This has only happened during one other period in ETH’s history – January 2018, when ETH’s price soared to new all-time highs of over $1,400.
+Additionally, the surge in activity on the Ethereum network can be linked to the rapid popularity of Decentralized Finance Platforms such as Compound Finance (COMP).
+The current active address surge, however, is not driven by an ETH price peak, as ETH’s price has remained under $250 since February. Instead, it appears to be driven by rapid growth of Ethereum-based stablecoins and decentralized finance (DeFi).
+To provide a visual of the growth in Ethereum address activity due to Decentralised Finance, Coinmetrics analyzed the three DeFi tokens of Ox (ZRX), Maker (MKR) and Kyber Network (KNC), and came up with the following chart.
+
+The team further explained the chart as follows.
+KNC is hitting new all-time highs entering July in anticipation of its Katalyst and KyberDAO updates which will introduce new staking rewards – once the update goes live KNC holders will be able to participate in protocol governance by staking their tokens, while earning ETH rewards in return.
+ZRX active addresses are also growing in early July after a large spike in May. MKR addresses have declined since a peak in mid-June, but are still relatively elevated.

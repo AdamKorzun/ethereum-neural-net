@@ -1,0 +1,25 @@
+In brief:
+The team at Ethereum has announced that Devcon 6 will be hosted in Bogotá, Colombia.
+The venue for the convention will be the beautiful Agora Bogotá Convention Center.
+Due to COVID19, there will be no Devcon in 2020.
+The organizers are optimistic that by 2021, the global restriction due to COVID19 would have eased to allow for Devcon 6 to happen.
+No exact date in 2021 has been given.
+Every year since 2014, the Ethereum community of developers, investors, and fans have met to discuss and share ideas related to the current and future state of the ETH network. The annual event is aptly named Devcon. However, due to the global spread of the Coronavirus and the accompanying lockdowns and travel restrictions, there will be no Devcon for the year 2020.
+Rather, the organizers of the annual Devcon are optimistic that by 2021, the lockdowns and travel restrictions implemented to curb the spread of COVID19 would have been eased to allow for the convention to happen. The team further announced that the 2021 Devcon will be hosted in Bogotá, Colombia, at the Agora Bogotá Convention Center.
+The team behind the annual Devcon made the announcement of the event via the following tweet.
+A lot has changed since we first geared up for this announcement, but it's about time for some news.
+Announcing #Devcon 6: Hacia Colombia en 2021https://t.co/RPCoZ8nnlP
+— Deva the Devcon Unicorn (@EFDevcon) May 28, 2020
+
+Additionally, the team explained that the choice to host Devcon 6 in Bogotá, Colombia, was as a result of demand for an event in South America. The team also explained an early announcement will provide ample time for planning amidst the challenges brought about by the global spread of COVID19.
+The Ethereum ecosystem’s preference clearly aligned around a strong demand for an event in South America, and a very deserving request for a venue capable of welcoming and serving this large and growing gathering…
+This year has been trying for us all, and we’re as eager as many of you are to reunite, but we must also ensure that the event is done right by everyone in this community.
+That means going bigger, and of course better than ever. We put in time to make sure that we could come together and grow our global ecosystem and that of a region that’s new to much of the Ethereum community, and that’s what we’re going to do.
+Previous events have been held in Asia, Europe, and North America. A full list of the events, their venues and dates can be found below.
+Devcon V – Osaka, Japan (October 8 – 11, 2019)
+Devcoin IV – Prague, Czech Republic (October 30 – November 2, 2018)
+Devcon III – Cancún, Mexico (November 1 – 4, 2017)
+Devon II – Shanghai, China (September 19 – 21, 2016)
+Devcon I – London, UK (November 9 – 13, 2015)
+Devcoin 0 – Kreuzberg, Berlin (November 24 – 28, 2014)
+(Feature image courtesy of Pixabay.)

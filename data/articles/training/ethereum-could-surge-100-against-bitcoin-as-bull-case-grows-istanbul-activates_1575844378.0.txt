@@ -1,0 +1,18 @@
+According to a prominent analyst, Ethereum’s chart structure is starting to favor a breakout of the cryptocurrency against Bitcoin.
+Cryptocurrency trader CryptoWolf recently noted that the long-term ETH/BTC chart is starting to print an array of signs that may imply a breakout is coming. This array of signs includes but is not limited to the existence of a 12-month-long Moving Average Convergence Divergence (MACD) bullish divergence, a 24-month-long falling wedge correction that looks prime to strongly break to the upside, and a Relative Strength Index reading that implies momentum is in the bulls’ court.
+ETHBTC.– 7 months Falling wedge correction– 3 months MACD bullish div.– Momentum already broke out of its resistance
+Target:61.8 fib.
+— Wolf (@IamCryptoWolf) December 8, 2019
+
+He thus noted that there’s a good likelihood that Ethereum rallies to 0.05661 BTC — over 150% higher than where the pair is trading at as of the time of writing this.
+It isn’t only the technicals that might support an ETH price run.
+Yesterday, Ethereum’s Istanbul blockchain upgrade/hard fork came into effect successfully.
+The upgrade implemented Ethereum Improvement Proposals (EIPs), which were chosen from a pool of more than 30 candidates. Here’s a list listing the EIPs and a brief summary of what they do, according to Ethereum Cat Herders.
+EIP 1679: An EIP listing the protocol changes that will be included in Istanbul. That’s all.
+EIP-2200: This EIP will change how the cost of the storage of data is calculated in Ethereum’s Virtual Machine, and will also give smart contracts the ability to execute more functions.
+EIP-1884: This EIP will change the transaction cost of some EVM opcodes “to prevent spamming attacks and to and to balance the amount of computation in each block better.”
+EIP-2028: This EIP will allow for zero-knowledge SNARKs and STARKs technology cheaper on the blockchain, reducing the cost of “calling data within outputs.”
+EIP-1344: This EIP will “add a way for contracts to keep track of the Ethereum chain they are on.”
+EIP-1108: This EIP will make zero-knowledge SNARKs cheaper, allowing for cheaper scaling and privacy technologies.
+EIP-152: “Adds the ability to verify the Equihash PoW within a contract. This will enable a relay and atomic-swap transactions between Zcash and Ethereum.”
+While it isn’t likely that any of these technical upgrades will have an immediate positive impact on the price of Ether, Istanbul is likely to lead to more adoption, and thus higher prices with time.

@@ -1,0 +1,22 @@
+In brief:
+Real-time data reveals that Ethereum is still the most active smart contract platform.
+Tron (TRX) ranks second with EOS, Tezos (XTZ) and Cardano (ADA) coming in third, fourth and fifth respectively.
+Ethereum’s dominance in this regard, will continue for the foreseeable future.
+Real-time data from the team at Messari reveals that Ethereum (ETH) is still the preferred smart contract platform by DApp developers and users. Tron (TRX) comes in a distant second with EOS, Tezos (XTZ) and Cardano (ADA) coming in third, fourth and fifth respectively. The team at Messari highlighted this fact via the following tweet.
+Smart contract platforms by active addresses:
++ Ethereum is most active by far
++ Tron a distant 2nd
++ EOS has fallen off considerably
++ Tezos & Cardano activity is low as they've focused on stability rather than dapp development
+data: @coinmetrics https://t.co/qy9fOwjsrp
+— Messari (@MessariCrypto) July 1, 2020
+
+The data confirming Ethereum as the choice smart contract platform is in line with the expectations of ETH investors and traders who are playing the long game in anticipation of ETH2.0. Therefore it can be loosely concluded that the dominance of Ethereum as the choice smart contract platform will continue for the foreseeable future. This is despite possible delays of ETH2.0 on the horizon.
+Evidence of further delays can be found in a recent tweet by Vitalik Buterin which explained that alternative Ethereum scaling solutions might have to be explored for the next couple of years before a complete rollout of ETH2.0. He further hinted that ZK-rollups might provide relief until ETH2.0 is ready. The tweet by Vitalik can be found below.
+ETH2 scaling for data will be available *before* ETH2 scaling for general computation. This implies that rollups will be the dominant scaling paradigm for at least a couple of years: first ~2-3k TPS with eth1 as data layer, then ~100k TPS with eth2 (phase 1). Adjust accordingly.
+— vitalik.eth (@VitalikButerin) June 30, 2020
+
+VItalik’s tweet confirms an early May analysis of ETH2.0 by the team at Bitmex which examined the possibilities of delays and hurdles with the upgrade. In the report, the team at Bitmex research explained the following.
+For the Ethereum 2.0 network to succeed, the proof of stake and sharding system need to work and be compelling enough to attract the economically significant components of the Ethereum ecosystem over to it.
+Smart contracts and DeFi systems would need to choose which shard is appropriate for them and invest in upgrading their technology to be compatible with the complexities and limitations of a sharded system.
+Therefore it will be many years before a significant part of the Ethereum ecosystem can make the switch. Ethereum 2.0 is an incredibly ambitious project and we consider it highly unlikely that it will succeed as planned, without major hiccups.

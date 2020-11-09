@@ -1,0 +1,18 @@
+In summary:
+Ethereum has long been known for high gas fees during times of network congestion.
+The DeFi boom and related stablecoin activity are two reasons for Ethereum’s current congestion that results in high ETH fees.
+Developers are working on scaling solutions to solve this issue as well as other EIPs to cap Ethereum gas fees.
+However, the high fees are actually bullish for ETH in the sense that users are willing to pay them.
+Users of Ethereum who wish to capitalize on the DeFi boom brought about by yield farming, are constantly met with high ETH fees as other users also aim to capitalize on the same incentives provided by these platforms. Additionally, those sending routine Ethereum transactions have to pay high ETH fees brought about by the congestion caused by DeFi and the related ERc20 stablecoin transactions.
+As a result, some Ethereum users are paying high transaction fees as seen in the following tweet.
+I paid $10 in Ethereum fees for three transactions to a smart contract… this isn't sustainable
+— Hashoshi (@hashoshi4) July 24, 2020
+
+At the time of writing this, the Ethereum network has a current gas fee of $0.40 which is still high when compared to other networks such as Tron (TRX) or even Nano (NANO). In the case of the latter, transactions on the NANO network are free.
+The fee of $10 is considerably low when compared to the record-breaking $5 Million in Ethereum fees that was paid in mid-June. The latter situation was actually proven to be a case of extortion as hackers had obtained partial access to the keys belonging to a little known Korean exchange called Good Cycle. This exchange was also rumored to be a Ponzi scheme.
+It is with such incidences of high gas fees that developers are working on ways of implementing EIP 1559 that gives Ethereum users the choice of selecting the fee they want to pay to expedite their transaction. The current model of Ethereum has a base network fee based on network demand.
+It might take a while for EIP 1559 to be implemented. However, one crypto analyst who goes by the name of @iamDCinvestor on Twitter, believes that Ethereum users opting to pay high ETH fees is actually bullish for Ethereum. By deciding to still use Ethereum, users of ETH believe in the network and its future. The tweet explaining this fact can be found below.
+People misunderstand why high fees are bullish for #Ethereum:
+It's not the fees themselves. Devs will do whatever they can to reduce them via L1 and L2 scaling (though fees may rise again).
+It's the fact that the users are willing to pay them to use Ethereum in the first place.
+
