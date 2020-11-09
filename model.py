@@ -16,16 +16,11 @@ ethdata.pop('Symbol')
 ethdata.pop('VolumeETH')
 ethdata.pop('VolumeUSD')
 
-npethdata = np.array(ethdata)
+
 article_data_path = 'data/articles/'
-# article_data = []
-#
-# for file_path in os.listdir(article_data_path):
-#     file = open(article_data_path + file_path,'r')
-#     timestamp = file_path.split('_')[1]
-#     timestamp = timestamp.split('.')[0]+'.'+timestamp.split('.')[1]
-#     article_data.append([file.read(),timestamp])
-#
+checkpoint_filepath = 'model/checkpoint/'
+saved_model_filepath = 'model/saved_model/'
+
 def get_labels(file_path):
     timestamp_list = []
     price_change_list = []
@@ -86,21 +81,38 @@ encoder = tf.keras.layers.experimental.preprocessing.TextVectorization(
 
 encoder.adapt(raw_train_ds.map(lambda text, label: text))
 
-model = tf.keras.Sequential([
-    encoder,
-    tf.keras.layers.Embedding(
-        input_dim=len(encoder.get_vocabulary()),
-        output_dim=64,
-        mask_zero=True),
-    tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
-    tf.keras.layers.Dense(64, activation='relu'),
-    tf.keras.layers.Dense(1)
-])
 
-model.compile(loss=tf.keras.losses.MeanSquaredLogarithmicError(),
-              optimizer=tf.keras.optimizers.Adam(1e-4),
-              metrics=['MeanSquaredLogarithmicError'])
-history = model.fit(raw_train_ds, epochs=100,
+if (not os.path.isdir(checkpoint_filepath)):
+    os.mkdir(checkpoint_filepath)
+if (not os.path.isdir(saved_model_filepath)):
+    os.mkdir(saved_model_filepath)
+
+model_checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
+    filepath=checkpoint_filepath,
+    save_weights_only=True,
+    monitor='val_loss',
+    mode='min',
+    save_best_only=True)
+
+def create_model():
+    model = tf.keras.Sequential([
+        encoder,
+        tf.keras.layers.Embedding(
+            input_dim=len(encoder.get_vocabulary()),
+            output_dim=64,
+            mask_zero=True),
+        tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
+        tf.keras.layers.Dense(64, activation='relu'),
+        tf.keras.layers.Dense(1)
+    ])
+    model.compile(loss=tf.keras.losses.MeanSquaredLogarithmicError(),
+                  optimizer=tf.keras.optimizers.Adam(1e-4),
+                  metrics=['MeanSquaredLogarithmicError'])
+    return model
+model = create_model()
+history = model.fit(raw_train_ds, epochs=1,
                     validation_data=raw_test_ds,
+                    callbacks=[model_checkpoint_callback],
                     steps_per_epoch = len(list(raw_train_ds)) / batch_size,
                     validation_steps=30)
+model.save('model/saved_model')
