@@ -9,12 +9,7 @@ from tensorflow.keras import layers
 from tensorflow.keras import losses
 from tensorflow.keras import preprocessing
 from tensorflow.keras.layers.experimental.preprocessing import TextVectorization
-np.set_printoptions(precision=3, suppress=True)
-ethdata = pd.read_csv("data/eth_prices/eth_usd_Kraken.csv",skiprows = 1, index_col=False, names=["Time", "UnixTimestamp", "Symbol", "Open","High", "Close", "VolumeETH","VolumeUSD"])
-#ethdata.pop('UnixTimestamp')
-ethdata.pop('Symbol')
-ethdata.pop('VolumeETH')
-ethdata.pop('VolumeUSD')
+
 
 class NeuralNetwork:
     raw_train_ds = None
@@ -22,7 +17,7 @@ class NeuralNetwork:
     encoder = None
     model = None
     batch_size=None
-    epocs = None
+
     def load_data(self, article_data_path, batch_size, training_labels,testing_labels,seed, validation_split = 0.2):
         self.batch_size = batch_size
         self.raw_train_ds = tf.keras.preprocessing.text_dataset_from_directory(
@@ -56,27 +51,33 @@ class NeuralNetwork:
             mode='min',
             save_best_only=True)
         self.encoder.adapt(self.raw_train_ds.map(lambda text, label: text))
-        self.model = tf.keras.Sequential([
-            self.encoder,
-            tf.keras.layers.Embedding(
-                input_dim=len(self.encoder.get_vocabulary()),
-                output_dim=64,
-                mask_zero=True),
-            tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
-            tf.keras.layers.Dense(64, activation='relu'),
-            tf.keras.layers.Dense(1)
-        ])
+        if (not self.model):
+            self.model = tf.keras.Sequential([
+                self.encoder,
+                tf.keras.layers.Embedding(
+                    input_dim=len(self.encoder.get_vocabulary()),
+                    output_dim=64,
+                    mask_zero=True),
+                tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
+                tf.keras.layers.Dense(64, activation='relu'),
+                tf.keras.layers.Dense(1)
+            ])
         self.model.compile(loss=tf.keras.losses.MeanSquaredLogarithmicError(),
                       optimizer=tf.keras.optimizers.Adam(1e-4),
                       metrics=['MeanSquaredLogarithmicError'])
-        self.model.fit(self.raw_train_ds, epochs=self.epochs,
+        self.model.fit(self.raw_train_ds, epochs=epochs,
                             validation_data=self.raw_test_ds,
                             callbacks=[model_checkpoint_callback],
                             steps_per_epoch = len(list(self.raw_train_ds)) / self.batch_size,
                             validation_steps=30)
         self.model.save(saved_model_filepath)
 
-
+np.set_printoptions(precision=3, suppress=True)
+ethdata = pd.read_csv("data/eth_prices/eth_usd_Kraken.csv",skiprows = 1, index_col=False, names=["Time", "UnixTimestamp", "Symbol", "Open","High", "Close", "VolumeETH","VolumeUSD"])
+#ethdata.pop('UnixTimestamp')
+ethdata.pop('Symbol')
+ethdata.pop('VolumeETH')
+ethdata.pop('VolumeUSD')
 article_data_path = 'data/articles/'
 checkpoint_filepath = 'model/checkpoint/'
 saved_model_filepath = 'model/saved_model/'
@@ -111,6 +112,12 @@ def get_labels(file_path):
 vocab_size=1000
 batch_size = 1
 model = NeuralNetwork()
-model.load_data(article_data_path, batch_size, get_labels(article_data_path + '/training'),get_labels(article_data_path + '/training'),42)
+model.load_data(article_data_path,
+                batch_size,
+                get_labels(article_data_path + '/training'),
+                get_labels(article_data_path + '/training'),
+                42)
 model.standardize_data(vocab_size)
-model.train_model(checkpoint_filepath = 'model/checkpoint/', saved_model_filepath, epochs = 1)
+model.train_model(checkpoint_filepath = 'model/checkpoint/',
+                  saved_model_filepath= saved_model_filepath,
+                  epochs = 100)
