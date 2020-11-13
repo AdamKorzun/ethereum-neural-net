@@ -1,0 +1,20 @@
+Quick take:
+Ethereum is once again attempting to break away from the market influence of BTC
+ETH’s correlation to Bitcoin has dropped significantly and is in territory last seen in early 2018
+The correlation could continue to drop as staking of the 32 ETH required for ETH2.0 intensifies
+Ethereum’s value could eventually break $500 before December 1st
+Ethereum’s correlation to Bitcoin is once again dropping. According to data from Coinmetrics, ETH’s correlation to BTC has dropped significantly beginning in October. This feat was highlighted by the team at Unfolded via the following tweet that also pointed out that the correlation had dropped to levels last seen in early 2018.
+Ethereum's third attempt this year to break out from #Bitcoin, 1 month correlation at 49%, lowest since early 2018.
+data: @coinmetrics pic.twitter.com/qIvjFv4Hev
+— unfolded. (@cryptounfolded) November 8, 2020
+
+A quick visit to the ETH/BTC correlation chart on Coinmetrics, reveals that Ethereum’s current correlation to Bitcoin is a few points lower than it was during Q3’s DeFi boom that saw Ethereum attempt to break the $500 price barrier. This, in turn, can be loosely interpreted to mean that the launch of ETH2.0 has investors a bit more excited than they were when DeFi was taking off earlier this year.
+According to the latest ETH2.0 development update, the Genesis of Phase 0 will need at least 16,284 validator deposits of 32 ETH each to trigger the event. On-chain data from CryptoQuant.com suggests that this process is 8.56% complete with 44,864 ETH currently deposited in anticipation of ETH2.0.
+Below is a summarized version of the progress of ETH2.0 courtesy of Unfolded and the team at CryptoQuant.
+ETH 2.0 dashboard by @cryptoquant_com :
+– Phase 0 Success Rate: 8.56%– Phase 0 Unique Validators: 204– Total Value Staked: 44,864 $ETH– ETH 2.0 Staking Rate: 0.12% pic.twitter.com/goC8bRvjiZ
+— unfolded. (@cryptounfolded) November 8, 2020
+
+A quick look at the daily Ethereum chart reveals that ETH was negatively affected by yesterday’s market sell-off that saw Bitcoin drop below $14,800 and Ethereum below $420. However, Ethereum has since rebounded and is currently attempting to flip the $445 resistance area into a support zone.
+If Ethereum succeeds in closing the week above this level, ETH could very well be on a path to challenge the $470 and $490 price areas in the days to follow. Turning $490 into support could ultimately foreshadow an attempt at breaking $500.
+However, as was witnessed a few hours ago, Ethereum needs Bitcoin not to pump or dump significantly for there to be an ideal environment for ETH to thrive.

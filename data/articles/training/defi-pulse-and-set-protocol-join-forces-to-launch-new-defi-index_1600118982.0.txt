@@ -1,0 +1,19 @@
+DeFi Pulse, one of the most popular platforms for DeFi token analytics, has just launched its own DeFi index built Set Protocol’s V2 infrastructure.
+As per the announcement, the new index comprises ten of the most popular Ethereum DeFi tokens, allowing newbies and experienced traders to gain exposure to ten DeFi assets via a single investment.
+The DeFi Pulse Index is a capitalization weighted index built on @SetProtocol's new V2 infrastructure and consists of 10 of the most popular tokens in #DeFi. https://t.co/0UUDcnSQn9
+
+The index is currently comprised of the following ten DeFi tokens:
+YFI
+LEND
+SNX
+COMP
+MKR
+LRC
+REN
+KNC
+BAL
+REPv2
+DeFi Pulse has stated that each asset is weighted based on its relative market capitalization and that only tokens that are both listed on DeFi Pulse and are based on Ethereum will be considered for inclusion. This does not include wrapped tokens, synthetic assets, or tokenized physical assets.
+The firm launched the index as a way to reduce the barrier to entry for DeFi investments, by both cutting down the research time needed to identify promising investments, as well as reducing the gas costs involved by as much as 90%.
+The new DeFi Pulse Index will be traded under a single token called DPI and is currently available on Uniswap, as well as through TokenSets’ integration partners, like Pillar, Zapper, and Dharma. The DeFi Pulse home page has now been updated with performance statistics about the new index token.
+“One-click access is a vast improvement in UX, efficiency, and cost over having to perform 10 transactions or more, lowering the barrier to entry for new users who lack the expertise, and providing experienced users exposure to DeFi through one single asset,” said DeFi Pulse in a tweet.

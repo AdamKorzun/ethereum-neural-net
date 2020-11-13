@@ -1,0 +1,15 @@
+In brief:
+Bitcoin (BTC) took down the entire crypto market with its dip before halving.
+Ethereum (ETH) bounced off the 200 Daily MA at a value of around $175.
+In a virtual discussion as part of Consensus 2020, Vitalik Buterin confirmed that Ethereum 2.0 was on track for launch in July.
+The Bitcoin halving event is now behind us and as we look back at the performance of BTC, we observe that the King of Crypto had a local top at around $10,000 before falling hard to $8,100. This dip that happened on the 10th of May, had an effect on all other cryptocurrencies including Ethereum (ETH) which is now below $200 and trading at $191 at the time of writing this.
+
+Further checking the 1-Day ETH/USDT chart courtesy of Tradingview.com, we observe the following.
+After the Bitcoin dip before halving, the price of Ethereum bounced off the 200 Daily moving average (green) at a value of approximately $175.
+This value also corresponds to the 0.382 retracement value of $174.61.
+Other support zones below the 200 Daily MA include $166, $158, $150 and $141.
+Sell volume is in the red and reducing, indicating that there could be some buying activity happening ahead of ETH2.0’s launch in July.
+MACD has crossed in a bearish manner and the MFI is also showing signs that the price of ETH will either experience sideways or drop again in the next few days.
+However, there is the fact that ETH2.0 is still on track for launch in July this year. The completion of the upgrade in July was further confirmed by Vitalik Buterin in a virtual interview during Consensus: Distributed.
+This, in turn, means that despite the Bitcoin halving hype being over, Ethereum still has its network upgrade to look forward to. Therefore, the 200 Daily MA is one area of crucial support to observe in the coming days for Ethereum.
+As with all trading analysis, investors and traders are advised to have adequate stop losses and also to keep an eye out for Bitcoin’s volatility when trading Ethereum.

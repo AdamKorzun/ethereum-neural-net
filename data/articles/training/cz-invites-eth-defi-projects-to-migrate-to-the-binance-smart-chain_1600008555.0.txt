@@ -1,0 +1,26 @@
+Quick take:
+Binance CEO has invited Ethereum DeFi projects to the Binance Smart Chain
+Migrating to BSC would lessen the load on Ethereum and consequently reduce ETH fees
+Several DeFi projects are already running on the Binance Smart Chain
+Binance Smart Chain has now reached 10% of Ethereum’s capacity
+The CEO of Binance, Changpeng Zhao, has invited Ethereum DeFi projects to the Binance Smart Chain (BSC). CZ believes that such a migration would lessen the load on the Ethereum network as well as lower ETH gas fees. He made these comments on Twitter and after he was asked whether he would love to see more DeFi projects on the Binance Smart Chain.
+Below is CZ’s response and the tweet that initiated the conversation.
+https://twitter.com/cz_binance/status/1305008604420825090
+In a later tweet, CZ was quick to clarify that Binance Smart Chain is no rival to Ethereum. BSC was built to be Ethereum compatible and provide smart contract creators with more options.
+BSC never aimed to replace ETH, BSC is just ETH-compatible. Smart projects are giving their users more options. Option for cheaper fees.
+At the time of writing, the following DeFi projects are running on the Binance Smart Chain.
+Cream Finance
+Burger Swap
+Bakery Swap
+ForTube
+Bounce Finance
+Spartan Protocol
+Stake Cow
+Peach Swap
+As with all DeFi projects, readers are reminded that Yield Farming is a risky endeavor and adequate research should be undertaken before committing funds on new DeFi protocols.
+Also worth mentioning is the fact that the Binance Smart Chain transaction volume recently reached 10% of Ethereum’s network a few days ago. This feat was captured by CZ via the following tweet that also provides an Etherscan version of Binance Smart Chain known simply as bscscan.com.
+Binance Smart Chain (#BSC) transaction volume reached 10% of ETH network a couple days after launching.
+Let's help bringing down the gas fees.https://t.co/rmrxMhxJvi
+— CZ Binance (@cz_binance) September 13, 2020
+
+

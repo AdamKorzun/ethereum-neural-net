@@ -1,0 +1,15 @@
+Summary:
+The number of Ethereum addresses holding 32 or more ETH has reached a new all-time high of 125,540
+Ethereum’s current value provides an opportunity to accumulate ETH in anticipation of staking on ETH2.0
+Ethereum staking pools are expected for those who cannot accumulate 32 ETH
+The number of Ethereum addresses holding 32 ETH or more has just hit a new all-time high of 125,540. This is according to data from the team at Glassnode which also suggests that Ethereum investors are continuing to accumulate ETH in anticipation of staking on ETH2.0.
+The team at Glassnode shared their analysis of ETH holders via the following tweet and accompanying chart that highlights the growth of Ethereum holders with 32 or more ETH.
+Previous ATH of 125,522 was observed on 30 October 2020
+View metric:https://t.co/rkRWanL3OS pic.twitter.com/28VF1YsbdL
+— glassnode alerts (@glassnodealerts) November 1, 2020
+
+In an earlier analysis, it had been pointed out that Ethereum’s journey above $400 might have to wait till Bitcoin tops out at some level that should allow ETH to thrive in the market. At the time of writing, investors and traders have their eyes and capital set on BTC as they anticipate the King of Crypto to take the $14k resistance level. Traders are known to follow the direction of the pump and right now Bitcoin is the life of the party.
+With less focus on Ethereum, its value has more or less stagnated around the $390 price area in what seems like short term consolidation in anticipation for ETH to thrive after Bitcoin has posted a local peak.
+In a recent ETH2.0 update, ConsenSys developer Ben Edington explained that the deposit contract for staking Ethereum on ETH2.0 should be released soon. Additionally, Ethereum’s beacon chain genesis will happen within the next six to eight weeks.
+This very much explains the accumulation of the 32 ETH needed to stake on the anticipated Proof of Stake mechanism governing ETH2.0. This minimum amount of 32 ETH required to stake, translates to approximately $12,500 using Ethereum’s current value of $390. This is a particularly large amount for the regular retail investor.
+However, Ethereum investors need not worry that they cannot accumulate the 32 ETH. According to the team at ConsenSys, there will be staking pools where one can deposit their available ETH to get their share of Ethereum rewards. The pools will stake on behalf of the investors and later distribute the earned ETH.

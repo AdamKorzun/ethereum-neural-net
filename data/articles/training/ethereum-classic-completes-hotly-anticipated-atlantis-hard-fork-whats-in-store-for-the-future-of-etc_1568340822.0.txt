@@ -1,0 +1,24 @@
+As part of a great move to increase compatibility with Ethereum (ETH), Ethereum Classic (ETC) completed its Atlantis hard fork earlier today, after concerns over exchange support.
+Due to the nature of a hard fork, the update lacked backwards compatibility, meaning individuals and companies all over the crypto community were required to update software in order to ensure funds remain safu and accessible.
+Completing the Atlantis hard fork was not all smooth sailing, however. ETC Cooperative’s director of developer relations Yaz Khoury had the following to say on the process:
+Congratulations @eth_classic on the successful activation of the Atlantis Hardfork!
+Was one of the longest debates to reach consensus along with a lot of the immutability politics
+Learned a lot about the beauty of decentralization and a distributed community
+Thx @a4fri!
+— Yaz Khoury (@Yazanator) September 12, 2019
+
+Indeed, the finale to the Atlantis affair came after much debate not only eternally with the logistics of the fork, but with the representatives of exchanges. All exchanges supporting Ethereum Classic had to update code in advance, in order to maintain bug-free experiences for users trading the token:
+Hey @krakenfx and @jespow!
+We are getting radio silence on whether or not Kraken are prepared for the ETC Atlantis hard fork due in 2 days time.
+Please could you confirm that you will be ready?https://t.co/uJK7lOo88Q
+Thanks!@BobSummerwill, ED.#ethereumclassic #community
+— ETC Cooperative (@ETCCooperative) September 10, 2019
+
+Thanks, but to be crystal clear, this is a technology upgrade, not the creation of a new coin. This is not a contentious fork.
+CC @krakenfx @jespow.
+— ETC Cooperative (@ETCCooperative) September 10, 2019
+
+Although scheduled for earlier this summer, Atlantis was postponed over the debate aforementioned by Khoury: specifically, EIP 170.
+Originally suggested by Ethereum co-creator Vitalik Buterin, EIP 170 would place a cap on the size of smart contract code included in a transaction. Buterin explain that the limit would prevent certain attacks at the time.
+However, this specific change was responsible for Ethereum Classic losing backwards compatibility, or it’s “hardness”. Some in the community argued that the change would also be possible without losing compatibility. The main argument against a hard fork would be that any future change in smart contract size allocation would mean yet another hard fork, disrupting exchanges and consumers once more. However, the change would also increase compatibility with Ethereum (ETH).
+Earlier this week, approximately 60% of nodes and 75% of miner hashing power was confirmed to be prepared for the update. As confirmed with ETC Labs, Coinbase, Poloniex, Binance, Bittrex, and other major exchanges announced their preparation for the fork.

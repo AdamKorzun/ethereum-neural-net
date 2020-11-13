@@ -1,0 +1,8 @@
+
+tl;dr
+If you are unfamiliar – Spadina is a rapid-fire dress-rehearsal eth2 testnet to be launched on September 29th with a 3 day end-of-life. If you’re interested in testing out your deposit and genesis chops one last time before mainnet launch, then Spadina is for you – submit deposits today! Check out the quick update from last week for more discussion on the what and why of Spadina.
+If this is your first eth2 testnet, be sure to check out the EthStaker Discord for tips and discussion. From there, you should be able to pick a client and make your way into the client-specific discords.
+The eth2 community is currently engaged in a wave of audits on everything from specs to cryptographic libraries to clients and command-line tools.
+We’re excited to announce that Trail of Bits just completed the audit of the eth2.0-deposit-cli – a tool we expect to be widely used by hobbyist stakers in conjunction with the Launchpad. The cli development team is currently working through the 10 findings and code quality recommendations found in the report. You can follow their progress here.
+In addition to this audit, there are many on-going audits of the eth2 client software. Keep your eye on this issue to keep track of the latest developments.
+Last week, Vitalik and I released EIP-2982: Serenity Phase 0.

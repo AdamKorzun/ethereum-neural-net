@@ -1,0 +1,18 @@
+Quick take:
+Earlier this week, an Ethereum transaction with a $2.6M fee shocked the crypto community.
+A second transaction from the same ETH address also paid $2.6M in Ethereum fees.
+Also in the same week, a third transaction from a separate ETH address paid $540,000 to send 3,221 in ETH.
+Ethereum Improvement Proposal 1559 aims to solve and reduce the rate of such incidences occurring in the Ethereum blockchain.
+This week has been a week of records in terms of fees paid on the Ethereum blockchain. On the 10th of June, 10,668 in Ethereum was paid in transaction fees for sending 0.55 ETH. This translates to a fee of approximately $2.6 million for a transaction valued at around $133.
+The initial transaction was thought to be a mistake but a second transaction on the following day from the same address sent 350 ETH and paid a similar 10,668 ETH in transaction fees. This translates to sending approximately $86,000 for the same fee of $2.6 Million.
+The list of transaction fee records this week did not end with the above transactions but with a third. In this case, a separate Ethereum user sent the equivalent of $750,000 in ETH for a transaction fee of $539,269. This transaction also occurred on the 11th of June.
+In his response to the first transaction with a fee of $2.6 million, the Co-Founder of Ethereum, Vitalik Buterin, reminded the crypto community of an Ethereum Improvement Proposal that is meant to reduce the frequency of such transactions occurring. Mr. Buterin’s tweet can be found below.
+Definitely a mistake.
+I'm expecting EIP 1559 to greatly reduce the rate of things like this happening by reducing the need for users to try to set fees manually.
+— vitalik.eth (@VitalikButerin) June 10, 2020
+
+EIP 1559 is an Ethereum Improvement Proposal aimed at replacing the current fee model with a mechanism that adjusts a base network fee according to the network demand. The current fee model allows users to select the fee they want to pay to expedite their transactions. Additionally, average gas fees tend to rise whenever there is congestion on the Ethereum network as miners can adjust the gas limit as network demand increases.
+Ethereum Proposal 1559 suggests a BASEFEE which is decided by the protocol. The BASEFEE is also destroyed/burnt during each transaction leading to a situation where users must incentivize miners to process their transactions with a GAS-PREMIUM. Users also determine how high of a fee they are willing to pay using a FEECAP.
+The team at Deribit Insights summarizes EIP1559 by stating that it provides users with a way to predict fee estimation and goes beyond just avoiding high transaction fees. They explain that:
+[EIP 1559] should make fee estimation much more predictable except for very short periods of high congestion, where the system falls back on the established first-price auction model. These periods are bound to last minutes, because of how BASEFEE rises exponentially to throttle demand.
+The benefits are made possible by BASEFEE as an interesting building block. Its ability to set minimum fees in the protocol opens a new design space, ranging from elastic blocksize, perpetual block subsidy, better resistance against economic abstraction, to better auction models going forward.

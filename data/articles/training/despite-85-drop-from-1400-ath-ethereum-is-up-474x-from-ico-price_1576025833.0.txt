@@ -1,0 +1,16 @@
+Ethereum (ETH) has had quite the fall from grace in terms of price.
+In 2017, the altcoin was literally all the rage — the cryptocurrency that everyone knew besides Bitcoin was Ethereum. This hype culminated in a massive price run-up that brought ETH from the single and double digits to an all-time high of $1,400 — a rally of literal thousands of percent — with immense buying pressure from a retail audience pushing the cryptocurrency sky-high.
+Since the days of the 2017-2018 crypto bubble, however, Ethereum has sunk, nearly all the way from whence it came. As of the time of writing this, ETH is trading for around $150, nearly 90% down from its all-time high against the U.S. dollar, and around 0.022 BTC.
+Despite this, the cryptocurrency remains up thousands of percent from the prices it was trading at during its earliest days. Popular CryptoDude recently noted that the cryptocurrency is up 474 times from its ICO price of $0.31 cents apiece, meaning that early investors are still sitting pretty on a copious amount of financial upside.
+$ETH is down 90% since it's highs @ $1400 currently sitting at roughly $147.
+Which means the ICO investors are still up by 474x#roadtodoubledigits pic.twitter.com/6dHKxT9O8G
+— CryptoDude (@cryptodude999) December 10, 2019
+
+While Ethereum investors that entered the market near the top of the 2017/2018 bubble are likely hurting, not all hope is lost for the cryptocurrency.
+For instance, Fortune revealed earlier this month that Compound, an Ethereum-based finance platform that allows users to lend out and borrow assets like ETH itself, USD Coin, Basic Attention Token, and 0x — has secured a $25 million worth of investments from Andreessen Horowitz’s a16z (round leader), Paradigm, Bain Capital Ventures and Polychain Capital. In related news, DappRadar recently communicated to this very outlet that decentralized finance, which is a classification that Compound falls into,
+Also, Ethereum just last weekend implemented the so-called “Istanbul” hard fork. Istanbul introduces six Ethereum Improvement Proposals (EIPs), which were chosen from a pool of more than 30 candidates.
+This upgrade is important because it allows the blockchain to facilitate a key technological improvement called “zero-knowledge Rollups,” which Circle CEO Jeremy Allaire has said will “allow Layer 2 scaling on Ethereum supporting upwards of 3000tps (larger than Visa), while maintaining decentralization and privacy. This is a big win for ETH-based stablecoins, [like USD Coin (USDC)].”
+With the Ethereum Istanbul HF, ZK Rollups now possible and will allow Layer 2 scaling on Ethereum supporting upwards of 3000tps (larger than Visa), while maintaining decentralization and privacy. This is a big win for ETH-based stablecoins #usdc https://t.co/pVBnIN0Jgo
+— Jeremy Allaire (@jerallaire) December 9, 2019
+
+With the capability of transacting thousands of near-instant and cheap transactions per second (that are private no less), Ethereum developers could begin to build applications that are similar to if not better than their real-world counterparts, creating a possible wave of adoption.

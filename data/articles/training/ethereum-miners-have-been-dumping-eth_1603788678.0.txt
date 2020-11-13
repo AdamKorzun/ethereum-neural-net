@@ -1,0 +1,22 @@
+Summary:
+Ethereum miners have been selling their ETH
+Ethereum’s Twitter sentiment is in bearish territory
+ETH/BTC pair shows a weakening Ethereum
+The daily ETH/USDT hints of a drop by Etheruem
+Ethereum miners have been selling their ETH in the month of October. This is according to on-chain data courtesy of the team at Santiment feed. The data also provides information that Ethereum that has been dormant in wallets, has been on the move in the past three months.
+Additionally, Ethereum’s Twitter sentiment is in bearish territory after ETH dropped below $400. Ethereum’s trade volume on Decentralized exchanges has also declined pointing towards reduced DeFi activity on the Ethereum blockchain.
+The above information paints a bearish future for Ethereum and was shared via the following Tweet by the team at Santiment.
+— Santiment (@santimentfeed) October 27, 2020
+
+When it comes to judging the overall market environment for Ethereum, the ETH/BTC chart is often used to gauge the bullishness of ETH. It is with this time tested method that popular crypto community member Udi Wertheimer, has predicted that the ETH/BTC pair is destined to get weaker. His analysis of Ethereum relative to Bitcoin can be found in the tweet below.
+— Udi Wertheimer (@udiWertheimer) October 26, 2020
+
+Although the ETH/BTC is fairly accurate in judging the overall market health of Ethereum, using it when Bitcoin has gained by almost $3k in the month of October, might skew the analysis. Therefore, analyzing ETH to a stable asset such as Tether (USDT) is an unbiased method of gauging Ethereum’s short term future.
+
+From the daily ETH/USDT chart above, the following can be observed.
+The trade volume is in the red with the MACD about to cross in a bearish manner
+Both the daily MFI and RSI are also hinted at an ongoing correction for Ethereum
+However, Ethereum’s price is still above all three moving averages (50, 100 and 200-day MAs)
+Support for Ethereum can be found at the usual levels of $390, $380, $365, $350 and $335
+Summing it up, the price of Ethereum is headed into bearish territory based on the fact that ETH miners have been selling their bags. Furthermore, ETH’s Twitter sentiment has dropped to bearish territory. Ethereum based decentralized exchanges have also been experiencing a significant drop in trade volume. Additionally, the daily ETH/USDT chart also confirms the bearish environment for Ethereum.
+As with all analyses of Ethereum, traders and investors are advised to use adequate stop loss as well as low leverage when trading ETH on the various derivatives platforms.

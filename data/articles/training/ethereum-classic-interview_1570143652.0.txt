@@ -1,0 +1,15 @@
+As of October 2nd, 2019, Ethereum Classic made use of five separate testnets.
+On October 3rd, that number became six.
+The new testnet “Mordor” went live onstage at the Ethereum Classic Summit in Vancouver, Canada. Launching the project was prominent Ethereum developer Afri Schoedon.
+During the presentation, Schoedon described the project’s goal to replace the ancient Morden testnet, a project abandoned by the Ethereum Foundation and ported to ETC in 2017. Morden was ported to the Atlantis (ECIP-1051) fork successfully, which was described in an article published on Medium by Schoedon.
+Present testnets include Kotti, Morden, Astor, Kensington, and Nazgul. Each testnet is supported on a variety of clients, with Parity Ethereum supporting the most testnets on a single client.
+In fact, the team behind Parity is led by Afri Schoedon, who was given a grant of $125,000 in November 2018 towards the new PoA testnet. Mordor comes only slightly late to its original 6 months projected launch, likely due to the anticipation of the Atlantis hard fork.
+EWN was able to obtain more information on the project in an exclusive interview with Schoeden at the summit:
+“Is support confirmed on each client?”
+Schoedon: “Well, I don’t know yet. I will approach each client independently and confirm support for the project.”
+“Do you anticipate any issues with adoption, or is Mordor likely to take the community by storm?”
+Schoedon: “Time; it will likely take weeks to months until Mordor is integrated into each client.”
+“Do you have any insights into the future of Morden?”
+Schoedon: “We can’t force deprecation; as long as Morden continues to be mined, it will still exist. But I think that the miners of Morden will probably be relieved by the launch.”
+Although in February of 2019, Schoedon had announced that he would no longer be building testnets for ETH, that doesn’t seem to prevent him from monumental action in the wider Ethereum community. Although many see ETH and ETC as competitors in the market, the reality is that collaboration between the two teams grows stronger each day with the ETC Cooperative reaching out for higher levels of compatibility.
+As of time of writing, Schoedon is responsible for 100% of commits to the Mordor Github.

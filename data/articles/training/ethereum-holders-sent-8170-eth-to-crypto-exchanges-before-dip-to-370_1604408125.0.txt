@@ -1,0 +1,24 @@
+Summary:
+Crypto exchanges experienced an inflow of 8,170 ETH before yesterday’s dip to $370
+This translates to around $3.1 Million using an Ethereum rate of $380
+Of this amount 4,000 ETH was deposited to Binance before the brief meltdown
+Selling of Ethereum could indicate buying exhaustion and a correction in the pipeline for ETH
+This week kicked off on a tumultuous note in the crypto markets due to the two events of a US presidential elections today, and the rise of COVID19 cases in Europe that is causing further lockdowns. Early Monday saw the price of Ethereum drop from $404 to $370 in less than 6 hours.
+According to the team at CryptoQuant, approximately 8,170 ETH was sent to crypto exchanges before the dip. This translates to roughly $3.1 Million using Ethereum’s current price of $380. The team at CryptoQuant further shared their observation of the inflow of Ethereum into exchanges via the following tweet.
+$ETH Exchange Inflow Mean for all exchanges hit 8,170 before the drop.
+— CryptoQuant.com (@cryptoquant_com) November 2, 2020
+
+Also worth mentioning is that 4,000 ETH of this amount was sent to Binance 20 minutes before Ethereum took a brief nosedive in the crypto markets. This event was captured by the team at CoinMetrics as can be seen in the following tweet.
+— CoinMetrics.io (@coinmetrics) November 2, 2020
+
+The selling of Ethereum begun around the $400 price zone. This could signify that this price area was the last region that some ETH investors could sell their bags at a profit. Additionally, it could be the first sign of exhaustion for Ethereum at least for the month of November.
+
+Further checking the daily ETH/USDT chart above, Ethereum could be in the midst of printing a bear flag that could result in the retest of several support zones above $300. They include those found at $365, $336, $320 and $309.
+Also from the chart, the following can be observed.
+The 50-day moving average is providing a level of support at the $370 price area
+The 200-day MA is providing adequate support at the $300 price area
+Failure of the aforementioned support zones could lead to Ethereum dropping to as low as $250
+Trade volume is in the red with the daily MACD confirming bearishness for Ethereum
+The daily MFI and RSI are also hinting at a correction at values of 58 and 46 respectively
+Summing it up, Ethereum holders transferred 8,170 ETH to crypto exchanges before yesterday’s drop from $400 to $370. The transfer and subsequent selling could hint of bullish exhaustion for Ethereum and could open the doors for a correction for the better part of November.
+As with all analyses of Ethereum, traders and investors are advised to use adequate stop losses when trading ETH on the various derivatives platforms.

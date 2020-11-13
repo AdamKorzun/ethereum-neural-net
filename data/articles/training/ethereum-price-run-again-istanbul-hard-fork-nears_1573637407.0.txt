@@ -1,0 +1,15 @@
+All eyes may be on the Bitcoin price, which is seemingly trying to establish a short-term trend, but an analyst is suggesting that it may be time to pay Ethereum (ETH) some attention. Sure, the second-largest cryptocurrency has been flailing alongside the market leader over recent weeks, falling by a similar amount. Though, a growing number of indicators suggest a price breakout.
+According to a recent analysis published by TradingView chartist CryptoBullet, Ethereum may be readying to surge higher against BTC.  Backing his point, he pointed to the chart below, which shows that ETH/BTC’s price action trades in clear one-year cycles of a surge, a collapse, a period of consolidation, then repeat.
+
+He added that ETH is currently forming a bullish ascending triangle pattern, which has a measured target of 0.027 BTC — 23% higher than the current price point.
+Bullet’s analysis came shortly after Crypto Thies noted that there is a growing confluence of signs implying that ETH will see strength.
+In a post published on Friday night, he noted that with the Directional Movement Index (DMI) and Volume Moving Average at historic supports, volatility in the Ethereum market may be had. In terms of the directionality of said volatility, there was a bigger presence of bullish technical indicators on the charts he posted: his proprietary Market God signal flashed a one-day buy signal, which is something that has preceded strong surges higher in the past, and flashed a sell signal for the  12-hour Bitcoin dominance chart.
+W/ the attention on #BTC, keep an eye on #ETH.
+DMI & VolMA at historic support, suggesting looming volatility.Price @ $185Bull case invalidated at $160Bear case invalidated at $215 & $241$BTC.D looks like its deathbed
+Support zones and resistance zones listed on chart. pic.twitter.com/KwOoaTBrMl
+
+It is important to note that ETH remains under a key long-term resistance though. As reported by this outlet previously, the analyst below has said that until ETH/BTC breaks above the 0.0240 BTC level, there is “literally no hope for ETH to outperform Bitcoin.”
+Literally no hope for $ETH to outperform bitcoin as long as it's under this line. pic.twitter.com/8tpd7l4XQ6
+— CryptoDude (@cryptodude999) November 2, 2019
+
+This growing price strength comes ahead of Ethereum’s Istanbul hard fork, which is slated to take place on December 4th, during the blockchain’s block 9069000. The Istanbul hard fork will introduce six key code changes to Ethereum. One change is EIP 1884, which will “increase the computational costs of recalling data about the ethereum blockchain for application developers,” according to a CoinDesk report.  The other changes are focused on changing gas/price limits for blockchain users.

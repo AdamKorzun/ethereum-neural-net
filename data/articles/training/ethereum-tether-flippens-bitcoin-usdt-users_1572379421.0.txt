@@ -1,0 +1,13 @@
+Earlier this year, Tether revealed that it would be diversifying the presence of its flagship stablecoin, USDT. After basing the U.S. dollar-backed (this is up for debate) cryptocurrency on Omni, a Bitcoin-based system, for years, Tether revealed that it would be bringing USDT to other blockchains. While Tron and other blockchains have all seen their own versions of the asset, Ethereum’s ERC-20 iteration of USDT is the most popular by far. So popular, in fact, that the amount of USDT based on Ethereum has just surpassed Bitcoin’s Omni.
+2,023,993,042 USDT on Ethereum1,775,000,000 USDT on Bitcoin (Omni)
+THE TETHER FLIPPENING HAS HAPPENED. https://t.co/5PvkntHGsH
+
+Although this statistic may not mean anything in and of itself, many in the cryptocurrency community are convinced that this implies exchanges and traders are starting to prefer transactions on Ethereum’s blockchain over those made over the Bitcoin-based Omni network. As one individual wrote in reply to the above tweet, “Better protocol is taking over!”
+This may be for good reason.
+Bitcoin does have something going for it though: the Liquid Network. Liquid is a Bitcoin sidechain that Blockstream, the San Francisco and Victoria-based Bitcoin development giant; it supports faster transaction settlements, Confidential Transactions, and sophisticated multi-sig security.
+Earlier this year, Blockstream’s Chief Strategy Officer, Samson Mow, revealed that the network would be supporting Liquid USDT. Bitfinex is the main major exchange to support this derivative of Tether, which services the same function as the USDT based on Ethereum and Bitcoin.
+It seems for now, however, that crypto investors and infrastructure providers are taking a liking to Ethereum.
+This is the blockchain’s latest positive fundamental development in a string of many.
+According to a piece from CoinDesk, Ethereum’s next system-wide upgrade, Istanbul, will be activating on the mainnet likely during the week of December 4th. During a developer call on October 25th, Danno Ferrin, blockchain protocol engineer at ConsenSys, proposed the activation of the technical upgrade at the block number of 9,056,000, which coincides with the December 4th date.
+In a similar vein to blockchain updates, Binance recently came out with a report outlining the developers of the blockchain’s goal to move to a Proof of Stake consensus model. The report indicated that when this system gets implemented, profits that can be earned via staking will range in the billions, providing ETH with the demand it needs to shoot higher in the longer run.
+All this, coupled with an array of technical factors, support growing demand (and therefore price) for Ethereum.

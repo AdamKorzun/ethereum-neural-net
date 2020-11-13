@@ -1,0 +1,26 @@
+Hey Ethereum community! We last spoke August 5 – how you been? We’re here to talk about something fresh we’ve shipped.
+Maybe you’ve already noticed, but we’ve got a new Developers section. For a long time, this content was a wall of links to products you might find helpful when building a dapp. We provided very little context and left a lot of connecting the dots up to you. We thought we could do better.
+
+Technical information about Ethereum is often fragmented, which can be a barrier for new developers who are trying to get their bearings.
+Getting to grips with Ethereum development can feel like running uphill against a tide of outdated Stack Exchange threads and Medium articles. Or like having to wade through murky depths as you scour crypto Twitter for something useful.
+So we set out to create an updatable repository for developer content that helps you:
+And perhaps more importantly, we wanted it to be a place for community collaboration. Anyone can submit PRs to improve and maintain the content. We’ve already seen a fantastic willingness from the community to dive in and help us improve the docs which is awesome.
+
+In other words, we wanted to create MDN for Ethereum. And use our pool of fantastic translators to help educate on a global scale.
+We on the ethereum.org team don’t have all the answers but as a community we’re amazing at sharing wisdom. Now, you’ve got the place to do it.
+Like ethereum.org in general, the portal is open source and there are ways to help whether you’re technical or not.
+Contributors get credited wherever possible.
+Right, time for a quick tour…
+Check out the site and let us know what you think over Twitter or on our Discord. But here’s a breakdown of what’s new right now:
+
+Ethereum documentation that gives you the background you need to understand how Ethereum works and how to build on the web3 stack.
+
+You can now access community tutorials and write tutorials for ethereum.org to reach an enormous audience – we’ll be translating them to increase their reach.
+
+There are links to dapp development frameworks and other developer tools to help you get from an idea to a deployed dApp. And to support the fantastic community efforts out there.
+This project is very much in the MVP phase. We wanted to get a base level of documentation out the door as a priority. In the near term we’ll be working on a series of improvements that:
+A lot of these ideas came from usability tests we ran with some amazing members and potential members of the Ethereum community – huge thanks to them!.
+In the long term, we want to include more features that show (as well as tell), inject more web3 into the portal itself, and develop incentives/rewards for contributors. If you have any ideas – we’d love your input.
+If you’ve got a way with words and you know your way around the Ethereum stack or the EVM, here’s a few open content issues you could help out with:
+Although it’s still early days, we wouldn’t have got this far without some folks who have provided their insight and feedback along the way. A big thanks to these fine people who have helped us ship this portal in some way or another:
+Andrei Tonkikh, Artur Gontijo, Togzhan Barakbayeva, Felipe Farragi, Adrian Li, Paul Berg, Christian Reitwiessner, Franziska Heintel, Ryan Ghods, Hudson Jameson, Austin Griffiths, Jordan Lesich, Charles St Louis, David Murdoch, Kevin Bluer, Brian Gu, Marc Garreau, Markus Waas, Rob Stupay, Yann Levreau, Scott Bigelow, Santiago Palladino, Sina Goodfiotit, Charles St. Louis, Griffin Hotchkiss, Mario Havel, Edson Allyon, Franco Zeoli, Pato Palladino, Albert Ni, and Eric Shepherd

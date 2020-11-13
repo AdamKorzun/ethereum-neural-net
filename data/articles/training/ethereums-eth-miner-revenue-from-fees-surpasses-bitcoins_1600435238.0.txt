@@ -1,0 +1,21 @@
+Quick summary:
+Ethereum miners are reaping big from ETH fees due to DeFi
+Their earnings from transaction fees have surpassed those being earned on the Bitcoin network
+Additionally, the amount of Bitcoin being wrapped on Ethereum continues to grow
+The value of Ethereum (ETH) is destined to grow with the increased network activity
+Ethereum miners are reaping big from transaction fees due to the increased network activity related to DeFi. Yesterday, Ethereum miners hit a new milestone by earning $1 Million in an hour due to fees paid out to claim UniSwap (UNI) tokens. Yesterday’s high ETH fees, preceded Coinbase Pro announcing it will pass network fees to its customers.
+These same events, coupled with increased Ethereum network activity, have resulted in ETH miners earning more from transaction fees than their counterparts on the Bitcoin network.
+This feat was captured by the team at Unfolded via the following tweet and accompanying chart comparing fees paid out on both the BTC and ETH networks.
+Ethereum miner’s revenue from fees surpass #Bitcoin‘s (7d avg) pic.twitter.com/vNPjHUYkSH
+— Unfolded (@cryptounfolded) September 18, 2020
+
+Ethereum researcher, Justin Drake, also captured the increased network activity on Ethereum and miner revenue from transaction fees. He further explained that ETH transactions during the UNI airdrop broke records.
+Yesterday Ethereum processed 1.4m transactions—a new record.
+Transaction fees were $16m, ~50% more than Bitcoin fees and block rewards combined.
+The popularity of DeFi from the month of June has come with an increased demand for Bitcoin’s value on the Ethereum network. As a result, more BTC is being issued on the Ethereum network with the current value exceeding $1 Billion. Below is a visual representation of the growth of Bitcoin on the Ethereum network.
+#Bitcoin on Ethereum > $1 billlion pic.twitter.com/UFYCFI9SeZ
+— Unfolded (@cryptounfolded) September 18, 2020
+
+As has been noted numerous times, the growth of DeFi at warp speed has been linked to the value of ETH also increasing. One example is yesterday’s UNI airdrop that caused a spike in Ethereum value from $365 levels to $380 levels in a matter of minutes. Eligible Ethereum users rushed to purchase ETH to claim their free UniSwap (UNI) tokens.
+The team at Crypterium research has also captured this relationship of DeFi activity and the value of Ethereum (ETH). They have summarized it as follows.
+DeFi’s heyday continues, and Ethereum provides the infrastructure for them. Therefore, the rise in the price of ETH can take a long time. We also want to note that the uptrend for this coin has not yet been reversed.

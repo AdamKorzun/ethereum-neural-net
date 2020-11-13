@@ -1,0 +1,28 @@
+Quick take:
+Bitfinex CTO, Paolo Ardoino, has notified crypto twitter of the freezing of $33M Tether related to the KuCoin hack
+Bitfinex has frozen $13 Million Tether (USDT) on EOS
+Tether has frozen $20 Million USDT on Ethereum
+Binance has pledged its support in the recovery efforts of funds from the hack
+KuCoin has offered a $100,000 reward for vital information related to the hack
+Moments ago, the CTO of Bitfinex and Tether, Paolo Ardoino, informed crypto twitter that both Bitfinex and Tether had frozen a total of $33 Million USDT related to the KuCoin hack. According to Mr. Ardoino, Bitfinex froze $13 Million USDT on the EOS network whereas Tether froze $20 Million on the Ethereum network.
+Below is Mr. Ardoino’s tweet notifying the crypto-verse on the actions taken by both Bitfinex and Tether.
+PSA: re #KuCoin hack@bitfinex froze 13M Tether USDt on EOS as part of the hack@Tether_to just froze 20M Tether USDt sitting on this Ethereum address https://t.co/GYmESH44da as precautionary measure.
+Stay safe everyone!
+— Paolo Ardoino (@paoloardoino) September 26, 2020
+
+CZ and the team at Binance have also pledged their full support to KuCoin in the recovery of funds and bringing to justice those responsible for the recent hack. CZ also took to twitter to express the exchange’s commitment to the matter.
+As always, #Binance has been actively helping other exchanges that got hacked. The sooner we get notified, the more we can help. We will work together to make the industry #SAFU-er.
+Our team got notified relatively early for this one. We will do what we can to help.
+…Freezing deposits that come our way. Help with blockchain analysis, security audits/advices, and even helping connecting with other exchanges, or to law enforcement agencies in different parts of the world.
+In a recent security update of the incident, the crypto exchange of KuCoin provided the following ETH wallet where the hack originated. This address has also been flagged by the team at EtherScan.io.
+0xeb31973e0febf3e3d7058234a5ebbae1ab4b8c23
+Additionally, KuCoin also flagged the following ETH and ERC-20 transactions
+0x4b738df5d7f12e3fa1cbe83b8165c542da461ef0c9255fc1a3f275259a92623b
+0x56fd1c3c8cc861c8abceafac7a175ccfb53bb87877750b0bfbd9581d8c52c1bc
+0x57e205922325104f9d132ff7cdbb7eb94bfe15049b5c71cb7328f72bc69a7122
+0xd2b21c8bb5c0bfafc98e86a2e924f3fe4223356748486bdccccdb8f58e16aa93
+0xdf1f8ce5d491728a2573591b253e2a9ec6abda723c7d984af1f6f154cd231ed9
+0xc3bd740534a530cfa5060daf937a24c5c90b1783550c6d9fa61daa2c1873e734
+0x5bf11bd22b6653870c1ba8cad69ae0691e08d9f73762a5adfc9e37f1892d9eee
+Furthermore, KuCoin has announced a $100,000 reward for valid information regarding the incident. Any tips can be sent to [email protected]
+KuCoin is investigating the incident with international law enforcement, and we will offer rewards of up to $100,000 to those who can provide valid information to us regarding this incident. Please contact [email protected].

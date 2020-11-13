@@ -1,0 +1,16 @@
+Quick summary:
+Over 15% of the Ethereum supply is locked in smart contracts
+This comes at a time when the total value locked in DeFi is about to hit a new milestone of $10 Billion
+In a sense, Ethereum is carrying the entire crypto market right now
+Over 15% of the Ethereum (ETH) total supply is locked in smart contracts. This is according to the team at Unfolded who highlighted this fact via the following tweet.
+Over 15% of ETH is locked in smart contracts | @glassnode pic.twitter.com/RsEtcquwEr
+— unfolded. (@cryptounfolded) September 17, 2020
+
+This revelation of the supply of Ethereum locked in smart contracts comes at a time when the total value locked in DeFi has experienced a massive rebound after the market selloff in the first week of September. A quick glance at DeFiPulse.com reveals that the total value locked in DeFi is approximately $9.77 Billion with UniSwap dominating the DeFi space with 19.84% of the total value locked.
+
+Of this amount, 7.9 Million ETH is locked in the various DeFi platforms. This translates to roughly $3 Billion using an ETH exchange rate of $380. This means that 30% of the total value locked in DeFi, is in the form of ETH.
+The popularity of DeFi protocols has come with similar popularity in the respective tokens of each platform. A quick recap of the past few weeks reveals that the major crypto exchanges such as Binance, Poloniex, Coinbase Pro, Bitfinex, KuCoin and the rest, have been busy listing the said DeFi tokens in a bid to keep up with the competition in the form of decentralized exchanges such as UniSwap and SushiSwap.
+Additionally, a quick glance at crypto twitter reveals that a majority of the conversations are centered around DeFi tokens such as UNI, YFI, CRV, SUSHI and ChainLink. To note is that all these tokens are built on the Ethereum network thus leading several crypto enthusiasts and traders such as @ByzGeneral, to conclude that the entire Crypto market is being carried by ETH.
+@ByzGeneral pointed out this observation via the following statement on Twitter.
+I’m not an $ETH maximalist, but you gotta agree that crypto is basically just the ethereum ecosystem right now.
+The whole market is getting carried by ETH.

@@ -1,0 +1,964 @@
+Tue Nov  3 00:02:09 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Tue Nov  3 00:02:10 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:12 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Tue Nov  3 00:02:14 2020:	'charmap' codec can't encode character '\U0001f4b5' in position 0: character maps to <undefined>-data/ethereum-eth-addresses-holding-between-1-10-rises-to-15-million.txt
+Tue Nov  3 00:02:14 2020:	'charmap' codec can't encode character '\U0001f92f' in position 0: character maps to <undefined>-data/ethereum-on-track-to-become-the-1st-blockchain-to-settle-1t-in-a-year.txt
+Wed Nov  4 23:18:58 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:18:58 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:18:58 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:18:58 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:18:59 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:18:59 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:00 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:01 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:02 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:03 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:04 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:04 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:05 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:19:06 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/2020.txt
+Wed Nov  4 23:20:51 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Wed Nov  4 23:20:51 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Wed Nov  4 23:20:51 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Wed Nov  4 23:20:51 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Wed Nov  4 23:20:56 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Wed Nov  4 23:20:56 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Wed Nov  4 23:20:56 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Wed Nov  4 23:20:56 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Wed Nov  4 23:20:56 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Wed Nov  4 23:20:56 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:57 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Wed Nov  4 23:20:58 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Wed Nov  4 23:20:59 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Wed Nov  4 23:20:59 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:21:00 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Wed Nov  4 23:26:34 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Wed Nov  4 23:26:34 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Wed Nov  4 23:26:36 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Wed Nov  4 23:26:36 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 12:15:43 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 12:15:43 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 12:15:44 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 12:15:44 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 12:15:45 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 12:15:45 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 12:15:45 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:15:45 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:15:45 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:15:45 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:15:46 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:15:46 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:15:46 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:15:46 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:15:46 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 12:15:46 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:47 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:15:48 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 12:15:48 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 12:15:49 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:15:50 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:17:25 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 12:17:25 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 12:17:25 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 12:17:25 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 12:17:26 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Thu Nov  5 12:17:27 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Thu Nov  5 12:17:30 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:17:30 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:17:30 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:17:30 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:17:30 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:17:30 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:21:42 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 12:21:42 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 12:21:43 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 12:21:43 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 12:21:43 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Thu Nov  5 12:21:45 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Thu Nov  5 12:21:47 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:21:47 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:21:47 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:21:47 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:21:47 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:21:47 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 12:21:49 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 12:21:49 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 12:21:49 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 12:21:49 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:21:50 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:51 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 12:21:52 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:53 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 12:21:54 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:00 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 13:12:00 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 13:12:01 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 13:12:01 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 13:12:02 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Thu Nov  5 13:12:04 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Thu Nov  5 13:12:10 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:12:10 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:12:10 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:12:10 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:12:10 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:12:10 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:12:14 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:12:14 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:12:14 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:12:14 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:12:15 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:12:15 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 13:12:16 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:17 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:12:18 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 13:12:19 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 13:12:20 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 13:12:20 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:12:21 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:23:59 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:23:59 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:23:59 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:23:59 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:24:14 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:24:14 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:24:42 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:24:42 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:24:42 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:24:42 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:24:42 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:24:42 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:24:42 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:24:42 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:30:58 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 13:30:58 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 13:30:59 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 13:30:59 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 13:31:00 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Thu Nov  5 13:31:03 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Thu Nov  5 13:31:08 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:31:08 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:31:08 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:31:08 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:31:08 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:31:08 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:31:11 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:31:11 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:31:11 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:31:11 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:31:13 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:31:14 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 13:31:14 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:15 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:31:16 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 13:31:16 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 13:31:17 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:18 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:31:19 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:21 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 13:49:21 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 13:49:21 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 13:49:21 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 13:49:22 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Thu Nov  5 13:49:24 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Thu Nov  5 13:49:29 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:49:29 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:49:29 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:49:29 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:49:29 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:49:29 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:49:32 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:49:32 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:49:32 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:49:32 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:49:33 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:49:34 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:49:35 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 13:49:35 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:49:36 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 13:49:37 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:38 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:49:39 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:04 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 13:55:04 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 13:55:06 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 13:55:06 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 13:55:07 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Thu Nov  5 13:55:09 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Thu Nov  5 13:55:14 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:55:14 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:55:14 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:55:14 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:55:14 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:55:14 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 13:55:17 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:55:17 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 13:55:17 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 13:55:17 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:55:17 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:55:17 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:55:17 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 13:55:17 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 13:55:18 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 13:55:19 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:27 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 14:10:27 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 14:10:29 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 14:10:29 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 14:10:30 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Thu Nov  5 14:10:32 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Thu Nov  5 14:10:37 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:10:37 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:10:37 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:10:37 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:10:37 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:10:37 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:10:40 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 14:10:40 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 14:10:40 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 14:10:40 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 14:10:40 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 14:10:40 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 14:10:40 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:10:41 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:10:42 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:22:50 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 14:22:50 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github.txt
+Thu Nov  5 14:22:52 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 14:22:52 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370.txt
+Thu Nov  5 14:22:54 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540.txt
+Thu Nov  5 14:22:58 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over.txt
+Thu Nov  5 14:23:05 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:23:05 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:23:05 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:23:05 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:23:05 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:23:05 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth.txt
+Thu Nov  5 14:23:09 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 14:23:09 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19.txt
+Thu Nov  5 14:23:09 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates.txt
+Thu Nov  5 14:23:10 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:23:11 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants.txt
+Thu Nov  5 14:57:36 2020:	'charmap' codec can't encode characters in position 15-17: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github_1604478063.0.txt
+Thu Nov  5 14:57:36 2020:	'charmap' codec can't encode character '\u27e0' in position 16: character maps to <undefined>-data/ethereums-eth2-0-deposit-contract-is-reportedly-live-on-github_1604478063.0.txt
+Thu Nov  5 14:57:37 2020:	'charmap' codec can't encode character '\U0001f449' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370_1604408125.0.txt
+Thu Nov  5 14:57:37 2020:	'charmap' codec can't encode character '\U0001f9d0' in position 0: character maps to <undefined>-data/ethereum-holders-sent-8170-eth-to-crypto-exchanges-before-dip-to-370_1604408125.0.txt
+Thu Nov  5 14:57:38 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-addresses-holding-32-eth-or-more-hits-new-ath-of-125540_1604244956.0.txt
+Thu Nov  5 14:57:41 2020:	'charmap' codec can't encode characters in position 107-110: character maps to <undefined>-data/eths-push-above-400-will-have-to-wait-for-the-btc-party-to-be-over_1604164245.0.txt
+Thu Nov  5 14:57:46 2020:	'charmap' codec can't encode characters in position 0-2: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth_1603788678.0.txt
+Thu Nov  5 14:57:46 2020:	'charmap' codec can't encode character '\u2754' in position 0: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth_1603788678.0.txt
+Thu Nov  5 14:57:46 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth_1603788678.0.txt
+Thu Nov  5 14:57:46 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth_1603788678.0.txt
+Thu Nov  5 14:57:46 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth_1603788678.0.txt
+Thu Nov  5 14:57:46 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ethereum-miners-have-been-dumping-eth_1603788678.0.txt
+Thu Nov  5 14:57:49 2020:	'charmap' codec can't encode character '\U0001f680' in position 20: character maps to <undefined>-data/eth2-quick-update-no-19_1604437200.0.txt
+Thu Nov  5 14:57:49 2020:	'charmap' codec can't encode character '\U0001f680' in position 97: character maps to <undefined>-data/eth2-quick-update-no-19_1604437200.0.txt
+Thu Nov  5 14:57:50 2020:	'charmap' codec can't encode character '\U0001f680' in position 14: character maps to <undefined>-data/eth2-quick-update-no-18_1601499600.0.txt
+Thu Nov  5 14:57:50 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/eth2-quick-update-no-17_1600722000.0.txt
+Thu Nov  5 14:57:50 2020:	'charmap' codec can't encode character '\U0001f389' in position 43: character maps to <undefined>-data/eth2-quick-update-no-17_1600722000.0.txt
+Thu Nov  5 14:57:50 2020:	'charmap' codec can't encode character '\u2705' in position 77: character maps to <undefined>-data/eth2-quick-update-no-17_1600722000.0.txt
+Thu Nov  5 14:57:50 2020:	'charmap' codec can't encode character '\ufe0f' in position 37: character maps to <undefined>-data/eth2-quick-update-no-17_1600722000.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode character '\U0001f680' in position 161: character maps to <undefined>-data/eth2-quick-update-no-16_1600030800.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-9: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-21: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-63: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-15: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-25: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-8: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:51 2020:	'charmap' codec can't encode characters in position 0-5: character maps to <undefined>-data/ESP-q2-updates_1599512400.0.txt
+Thu Nov  5 14:57:52 2020:	'charmap' codec can't encode character '\U0001f680' in position 142: character maps to <undefined>-data/eth2-quick-update-no-15_1598907600.0.txt
+Thu Nov  5 14:57:53 2020:	'charmap' codec can't encode character '\U0001f633' in position 46: character maps to <undefined>-data/validated-why-client-diversity-matters_1597957200.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode character '\U0001f9be' in position 0: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-41: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-29: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-12: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-23: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-103: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-14: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 7-18: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-105: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-18: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 10-26: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 3-99: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode character '\u4ece' in position 0: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 5-37: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode character '\u81ea' in position 0: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-11: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-125: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-7: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-72: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Thu Nov  5 14:57:54 2020:	'charmap' codec can't encode characters in position 0-54: character maps to <undefined>-data/ESP-beyond-grants_1597784400.0.txt
+Sat Nov  7 13:57:16 2020:	'charmap' codec can't encode character '\U0001f347' in position 13: character maps to <undefined>-data/defi-protocol-uniswap-is-on-track-to-hit-3b-in-total-value-locked_1604681276.0.txt
+Sat Nov  7 13:57:17 2020:	'charmap' codec can't encode character '\U0001f433' in position 0: character maps to <undefined>-data/ethereum-holdings-of-the-top-10-eth-whales-drops-to-a-3-month-low_1604646532.0.txt
+Sat Nov  7 13:57:17 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/ethereum-holdings-of-the-top-10-eth-whales-drops-to-a-3-month-low_1604646532.0.txt
+Sun Nov  8 22:12:58 2020:	'charmap' codec can't encode character '\U0001f4b5' in position 0: character maps to <undefined>-data/articlesethereum-eth-addresses-holding-between-1-10-rises-to-15-million_1603546198.0.txt
+Sun Nov  8 22:12:59 2020:	'charmap' codec can't encode character '\U0001f92f' in position 0: character maps to <undefined>-data/articlesethereum-on-track-to-become-the-1st-blockchain-to-settle-1t-in-a-year_1603468144.0.txt
+Sun Nov  8 22:13:04 2020:	'charmap' codec can't encode character '\U0001f433' in position 0: character maps to <undefined>-data/articlesethereum-whales-confident-of-eths-price-move-funds-from-exchanges_1603299650.0.txt
+Sun Nov  8 22:49:14 2020:	'charmap' codec can't encode character '\U0001f984' in position 39: character maps to <undefined>-data/articles/uniswap-protocol-integrated-into-tradingview_1602766773.0.txt
+Sun Nov  8 22:49:14 2020:	'charmap' codec can't encode character '\U0001f601' in position 7: character maps to <undefined>-data/articles/uniswap-protocol-integrated-into-tradingview_1602766773.0.txt
+Sun Nov  8 22:49:15 2020:	'charmap' codec can't encode character '\U0001f914' in position 0: character maps to <undefined>-data/articles/ethereums-eth-daily-active-addresses-continue-to-decline-since-july_1602601400.0.txt
+Sun Nov  8 22:49:23 2020:	'charmap' codec can't encode character '\U0001f923' in position 21: character maps to <undefined>-data/articles/yfi-comp-sushi-and-most-defi-tokens-experience-pullbacks-of-over-60_1602147225.0.txt
+Sun Nov  8 22:49:25 2020:	'charmap' codec can't encode character '\U0001f6a8' in position 0: character maps to <undefined>-data/articles/ethereums-eth-mean-hash-rate-hits-new-all-time-high-thanks-to-defi_1601997368.0.txt
+Sun Nov  8 22:49:25 2020:	'charmap' codec can't encode character '\U0001f389' in position 54: character maps to <undefined>-data/articles/ethereums-eth-mean-hash-rate-hits-new-all-time-high-thanks-to-defi_1601997368.0.txt
+Sun Nov  8 22:49:31 2020:	'charmap' codec can't encode characters in position 226-227: character maps to <undefined>-data/articles/ethereums-eth-network-has-grown-by-13-2-in-less-than-2-wks_1601561243.0.txt
+Sun Nov  8 22:50:05 2020:	'charmap' codec can't encode character '\U0001f4a3' in position 31: character maps to <undefined>-data/articles/over-460k-ethereum-eth-options-expire-friday-sept-25th_1600793229.0.txt
+Sun Nov  8 22:50:05 2020:	'charmap' codec can't encode character '\U0001f539' in position 0: character maps to <undefined>-data/articles/over-460k-ethereum-eth-options-expire-friday-sept-25th_1600793229.0.txt
+Sun Nov  8 22:50:05 2020:	'charmap' codec can't encode character '\U0001f539' in position 0: character maps to <undefined>-data/articles/over-460k-ethereum-eth-options-expire-friday-sept-25th_1600793229.0.txt
+Sun Nov  8 22:50:12 2020:	'charmap' codec can't encode character '\U0001f984' in position 0: character maps to <undefined>-data/articles/uniswap-uni-takes-top-defi-spot-in-total-value-locked-at-1-94b_1600587898.0.txt
+Sun Nov  8 22:50:12 2020:	'charmap' codec can't encode character '\U0001f347' in position 13: character maps to <undefined>-data/articles/uniswap-uni-takes-top-defi-spot-in-total-value-locked-at-1-94b_1600587898.0.txt
+Sun Nov  8 22:50:23 2020:	'charmap' codec can't encode character '\U0001f347' in position 3: character maps to <undefined>-data/articles/defi-pulse-and-set-protocol-join-forces-to-launch-new-defi-index_1600118982.0.txt
+Sun Nov  8 22:50:23 2020:	'charmap' codec can't encode character '\U0001f347' in position 13: character maps to <undefined>-data/articles/defi-pulse-and-set-protocol-join-forces-to-launch-new-defi-index_1600118982.0.txt
+Sun Nov  8 22:50:43 2020:	'charmap' codec can't encode character '\U0001f433' in position 0: character maps to <undefined>-data/articles/ethereum-whales-grew-their-bags-from-3-16m-to-5-8m-eth-in-one-month_1599669434.0.txt
+Sun Nov  8 22:50:47 2020:	'charmap' codec can't encode characters in position 119-121: character maps to <undefined>-data/articles/chef-nomi-transfers-control-of-sushiswap-to-ftx-crypto-exchange-ceo_1599382469.0.txt
+Sun Nov  8 22:50:47 2020:	'charmap' codec can't encode characters in position 18-23: character maps to <undefined>-data/articles/chef-nomi-transfers-control-of-sushiswap-to-ftx-crypto-exchange-ceo_1599382469.0.txt
+Sun Nov  8 22:50:54 2020:	'charmap' codec can't encode character '\U0001f602' in position 57: character maps to <undefined>-data/articles/high-eth-gas-could-cause-binance-to-increase-ethereum-withdrawal-fees_1598982866.0.txt
+Sun Nov  8 22:50:55 2020:	'charmap' codec can't encode character '\U0001f4aa' in position 115: character maps to <undefined>-data/articles/everyone-wants-to-connect-to-ethereum-eth-weiss_1598798006.0.txt
+Sun Nov  8 22:50:58 2020:	'charmap' codec can't encode characters in position 15-16: character maps to <undefined>-data/articles/defi-monthly-active-users-hit-292000-in-august_1598709558.0.txt
+Sun Nov  8 22:50:58 2020:	'charmap' codec can't encode characters in position 5-6: character maps to <undefined>-data/articles/defi-monthly-active-users-hit-292000-in-august_1598709558.0.txt
+Sun Nov  8 22:50:58 2020:	'charmap' codec can't encode characters in position 5-6: character maps to <undefined>-data/articles/defi-monthly-active-users-hit-292000-in-august_1598709558.0.txt
+Sun Nov  8 22:51:03 2020:	'charmap' codec can't encode characters in position 27-28: character maps to <undefined>-data/articles/omgs-impressive-crypto-market-run-risks-ending-as-fast-as-it-started_1598186051.0.txt
+Sun Nov  8 22:51:07 2020:	'charmap' codec can't encode character '\U0001f680' in position 253: character maps to <undefined>-data/articles/omg-network-ox-zrx-thrive-amidst-crypto-market-selloff_1598023599.0.txt
+Sun Nov  8 22:51:30 2020:	'charmap' codec can't encode character '\u27e0' in position 17: character maps to <undefined>-data/articles/high-eth-fees-are-bullish-for-ethereum-crypto-analyst_1595937057.0.txt
+Sun Nov  8 22:51:37 2020:	'charmap' codec can't encode character '\U0001f680' in position 67: character maps to <undefined>-data/articles/ethereum-eth-is-attempting-to-bulldoze-the-290-resistance-level_1595666128.0.txt
+Sun Nov  8 22:51:48 2020:	'charmap' codec can't encode character '\U0001f440' in position 0: character maps to <undefined>-data/articles/ethereum-locked-in-defi-hits-new-all-time-high-of-3-5m-eth_1595005446.0.txt
+Sun Nov  8 22:51:48 2020:	'charmap' codec can't encode character '\U0001f347' in position 13: character maps to <undefined>-data/articles/ethereum-locked-in-defi-hits-new-all-time-high-of-3-5m-eth_1595005446.0.txt
+Sun Nov  8 22:51:53 2020:	'charmap' codec can't encode character '\U0001f642' in position 16: character maps to <undefined>-data/articles/ethereum-could-lose-its-200-support-zone-with-a-delay-of-eth2-0_1594487348.0.txt
+Sun Nov  8 22:51:55 2020:	'charmap' codec can't encode character '\u2260' in position 25: character maps to <undefined>-data/articles/bitcoins-low-social-dominance-a-bullish-eth-btc-pair-alt-season_1594480156.0.txt
+Sun Nov  8 22:52:04 2020:	'charmap' codec can't encode character '\U0001f4e3' in position 0: character maps to <undefined>-data/articles/filecoin-fil-launches-hackathon-ahead-of-q3-mainnet-launch_1593853068.0.txt
+Sun Nov  8 22:52:09 2020:	'charmap' codec can't encode characters in position 212-213: character maps to <undefined>-data/articles/june-2020-sees-ethereum-eth-hit-its-2nd-highest-monthly-txns-to-date_1593623223.0.txt
+Sun Nov  8 22:52:30 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 0: character maps to <undefined>-data/articles/the-50-day-ma-is-ethereums-eth-next-level-of-support-if-228-breaks_1592156625.0.txt
+Sun Nov  8 22:52:36 2020:	'charmap' codec can't encode character '\U0001f440' in position 0: character maps to <undefined>-data/articles/290-or-228-two-possible-scenarios-for-ethereum-ahead-of-eth2-0_1591704927.0.txt
+Sun Nov  8 22:53:19 2020:	'charmap' codec can't encode characters in position 100-105: character maps to <undefined>-data/articles/tron-now-ranks-second-after-ethereum-eth-in-the-issuance-of-usdt_1589132109.0.txt
+Sun Nov  8 22:53:19 2020:	'charmap' codec can't encode character '\U0001f31e' in position 12: character maps to <undefined>-data/articles/tron-now-ranks-second-after-ethereum-eth-in-the-issuance-of-usdt_1589132109.0.txt
+Sun Nov  8 22:53:51 2020:	'charmap' codec can't encode character '\U0001f9f2' in position 9: character maps to <undefined>-data/articles/analysts-bullish-ethereum-price-2019-crash_1578276954.0.txt
+Sun Nov  8 22:53:51 2020:	'charmap' codec can't encode character '\U0001f973' in position 105: character maps to <undefined>-data/articles/analysts-bullish-ethereum-price-2019-crash_1578276954.0.txt
+Sun Nov  8 22:53:59 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/articles/watch-out-ethereum-app-google-chrome-malicious_1577844046.0.txt
+Sun Nov  8 22:53:59 2020:	'charmap' codec can't encode character '\u25ca' in position 18: character maps to <undefined>-data/articles/watch-out-ethereum-app-google-chrome-malicious_1577844046.0.txt
+Sun Nov  8 22:54:01 2020:	'charmap' codec can't encode character '\U0001f30a' in position 12: character maps to <undefined>-data/articles/ethereum-to-outperform-bitcoin_1577824410.0.txt
+Sun Nov  8 22:54:14 2020:	'charmap' codec can't encode character '\U0001f525' in position 2: character maps to <undefined>-data/articles/chainlink-to-soon-crash-to-pre-rally-levels-predicts-ethereum-fractal_1576321237.0.txt
+Sun Nov  8 22:54:18 2020:	'charmap' codec can't encode characters in position 24-27: character maps to <undefined>-data/articles/ethereum-could-surge-100-against-bitcoin-as-bull-case-grows-istanbul-activates_1575844378.0.txt
+Sun Nov  8 22:54:38 2020:	'charmap' codec can't encode character '\u2654' in position 18: character maps to <undefined>-data/articles/ethereum-price-run-again-istanbul-hard-fork-nears_1573637407.0.txt
+Sun Nov  8 22:54:43 2020:	'charmap' codec can't encode character '\U0001f6e1' in position 24: character maps to <undefined>-data/articles/ethereum-tether-flippens-bitcoin-usdt-users_1572379421.0.txt
+Sun Nov  8 22:54:48 2020:	'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>-data/articles/ethereum-defi-record-crypto-boom_1572154578.0.txt
+Sun Nov  8 22:54:48 2020:	'charmap' codec can't encode character '\U0001f347' in position 13: character maps to <undefined>-data/articles/ethereum-defi-record-crypto-boom_1572154578.0.txt
+Sun Nov  8 22:54:48 2020:	'charmap' codec can't encode character '\U0001f3f4' in position 28: character maps to <undefined>-data/articles/ethereum-defi-record-crypto-boom_1572154578.0.txt
+Sun Nov  8 22:54:50 2020:	'charmap' codec can't encode character '\U0001f347' in position 13: character maps to <undefined>-data/articles/ethereum-price-40-move-bitcoin-boom-analyst_1572118243.0.txt
+Sun Nov  8 22:54:59 2020:	'charmap' codec can't encode character '\U0001f30a' in position 12: character maps to <undefined>-data/articles/analysts-eye-upside-for-ethereum_1571084249.0.txt
+Sun Nov  8 22:55:04 2020:	'charmap' codec can't encode character '\U0001f30a' in position 12: character maps to <undefined>-data/articles/analysts-maintain-ethereum-bull-bias-despite-5-drop-today_1570828407.0.txt
+Sun Nov  8 22:55:09 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 13: character maps to <undefined>-data/articles/analyst-ethereum-may-surge-against-btc-but-faces-bearishness-against-usd_1570547271.0.txt
+Sun Nov  8 22:55:20 2020:	'charmap' codec can't encode character '\U0001f30e' in position 0: character maps to <undefined>-data/articles/ethereum-defi-apps-coinbase-interest_1570046070.0.txt
+Sun Nov  8 22:55:20 2020:	'charmap' codec can't encode character '\U0001f4a1' in position 0: character maps to <undefined>-data/articles/ethereum-defi-apps-coinbase-interest_1570046070.0.txt
+Sun Nov  8 22:55:30 2020:	'charmap' codec can't encode character '\U0001f3af' in position 29: character maps to <undefined>-data/articles/ethereum-gas-usage-hits-all-time-high_1568668168.0.txt
+Sun Nov  8 22:55:47 2020:	'charmap' codec can't encode character '\U0001f914' in position 267: character maps to <undefined>-data/articles/altcoins-pumps-as-bitcoin-faces-bout-of-consolidation_1568509635.0.txt
+Sun Nov  8 22:55:47 2020:	'charmap' codec can't encode character '\u20bf' in position 8: character maps to <undefined>-data/articles/altcoins-pumps-as-bitcoin-faces-bout-of-consolidation_1568509635.0.txt
+Sun Nov  8 22:55:51 2020:	'charmap' codec can't encode character '\U0001d575' in position 12: character maps to <undefined>-data/articles/ethereum-break-out-bitcoin-eth-upside-analysis_1568502053.0.txt
+Sun Nov  8 22:55:53 2020:	'charmap' codec can't encode character '\U0001f360' in position 9: character maps to <undefined>-data/articles/ethereum-robo-advisor-isnt-up-to-scratch-claims-defi-dev_1568497514.0.txt
+Sun Nov  8 22:55:56 2020:	'charmap' codec can't encode characters in position 0-1: character maps to <undefined>-data/articles/ethereum-classic-completes-hotly-anticipated-atlantis-hard-fork-whats-in-store-for-the-future-of-etc_1568340822.0.txt
+Sun Nov  8 22:56:03 2020:	'charmap' codec can't encode character '\U0001f4c8' in position 16: character maps to <undefined>-data/articles/analysts-bearish-on-ethereum-as-upwards-momentum-falters_1568308659.0.txt
+Sun Nov  8 22:56:57 2020:	'charmap' codec can't encode characters in position 237-239: character maps to <undefined>-data/articles/blockstream-cso-ethereum-technological-dead-end_1566907222.0.txt
+Sun Nov  8 22:57:05 2020:	'charmap' codec can't encode character '\U0001f937' in position 236: character maps to <undefined>-data/articles/crypto-investors-rebut-ethereum-fud_1566538214.0.txt
+Sun Nov  8 22:57:20 2020:	'charmap' codec can't encode character '\U0001f3af' in position 110: character maps to <undefined>-data/articles/ethereum-centric-chainlink-on-growth_1566113982.0.txt
+Sun Nov  8 22:57:41 2020:	'charmap' codec can't encode character '\U0001f44d' in position 115: character maps to <undefined>-data/articles/bittrex-adopts-erc-20-tether-as-ethereum_1565085640.0.txt
+Sun Nov  8 22:57:44 2020:	'charmap' codec can't encode characters in position 35-37: character maps to <undefined>-data/articles/analysis-ethereum-based-stablecoins-transact-more-value-venmo_1564605050.0.txt

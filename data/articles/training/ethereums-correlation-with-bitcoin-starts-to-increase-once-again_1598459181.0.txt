@@ -1,0 +1,14 @@
+Quick take:
+Ethereum’s correlation with Bitcoin has started to increase once again.
+In late June and July, ETH looked set to break away from Bitcoin’s influence due to the DeFi boom and investors anticipating ETH 2.0.
+With a return of the correlation between Ethereum and Bitcoin, a drop by BTC could see ETH retest $365.
+Ethereum’s 30-day correlation with Bitcoin has seen a steady increment in the final days of the month of August. This observation was highlighted by the team at Unfolded via the following tweet.
+$ETH correlation with $BTC going back up pic.twitter.com/5SS8ehTd7e
+— Unfolded (@cryptounfolded) August 26, 2020
+This observation is further confirmed by visiting the ETH/BTC correlation chart courtesy of Coinmetrics. The latter platform only goes as low as the 90-day correlation but the increment can still be visible via a small change in gradient of the chart to an upward trajectory.
+
+The months of June, July and August were eventful for Ethereum due to the DeFi boom. Furthermore, Ethereum investors and traders were optimistic that ETH 2.0 would be launched by the end of July. These two events coupled with a generally bullish crypto market environment had led to a drop in Ethereum’s correlation with Bitcoin. This fact can be observed from the chart shared above.
+Therefore, an increment in the correlation between Ethereum and Bitcoin means that it is business as usual in the sense that where BTC goes, ETH will follow.
+Further checking the charts, yesterday saw a return of Bitcoin’s volatility albeit earlier than anticipated. Many crypto traders had assumed that Bitcoin’s volatility will return a few hours to the expiry of 62,000 BTC options on Friday, August 25th. However, the King of Crypto pulled a fast one on traders and dipped to as low as $11,100 three days earlier. BTC has since bounced back to $11,400 levels.
+The downward move by BTC also affected Ethereum’s price which fell to as low as $369. This value is not too far off the previously identified support of $365. This in turn means that any additional drop by Bitcoin will mean that ETH will most likely retest this area or even lose it in the days to follow.
+As with all analyses of Ethereum, traders and investors are advised to use adequate stop losses and low leverage when trading ETH on the various derivatives platforms.

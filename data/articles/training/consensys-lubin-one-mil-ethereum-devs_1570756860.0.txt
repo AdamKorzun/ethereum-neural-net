@@ -1,0 +1,16 @@
+While Bitcoin has the largest market capitalization out of all blockchain and cryptocurrencies, it doesn’t have the biggest active developer base. That crown lies on the head of Ethereum (ETH), the second-largest cryptocurrency.
+Indeed. As found in an extensive report from Electric Capital published in August, Ethereum comes out on top of all other blockchains in terms of its blockchain development metrics. Out of all developers analyzed by Electric, 18% worked on the blockchain, the largest contributor base by far. Just look to the chart below, which shows the project clearly pulling well ahead of its competitors.
+
+Ethereum’s current status in the programming ecosystem isn’t good enough though. At least according to Joseph Lubin.
+Announced at Devcon 5 in Osaka, Japan just yesterday, the blockchain development studio ConsenSys founder wants to have had one million developers involved in Ethereum. This, per Lubin’s estimates, would be around double the current count of 500,000 and five times the current active developer count of 200,000 (purportedly derived from the download data of blockchain developer product suite Truffle).
+I’ve got a mission for you, #Devcon5: 1M #Ethereum developers. Can we make it happen by Devcon6?
+There are 30M+ devs worldwide. Let’s give them their ‘holy shit’ #blockchain moment, and jumpstart a more open & transparent Web 3.0. pic.twitter.com/ZAZ2z1WkBx
+— Joseph Lubin (@ethereumJoseph) October 10, 2019
+
+To help make this happen, Lubin and presumably some collaborators have launched Onemilliondevs.com — a website that as its domain implies will be focused on giving developers incentive to start working with and on Ethereum.
+The website is widely focused on creating a fun environment for developers in hopes that they interact with Ethereum. According to the website’s landing page, Onemilliondevs operates much like an odd amalgamation of Twitter and LinkedIn, offering users the ability to connect, share projects, show off actions, and build a reputation. The site reads:
+Share your projects. Show off your actions. Build your reputation. Connect with friends… Discover what Ethereum truly has to offer… Join the community in a central hub for Ethereum developers, where your digital identity is self-sovereign, your data is your own, and the rewards you earn are provably scarce and unique!
+Onemilliondevs offers “interactive quests and adventures” that will allow Ethereum developers, both fledging and already involved, to be rewarded and celebrated for using the blockchain.
+This new website aside, Lubin has already begun to push towards this lofty goal. ConsenSys has revealed that it will soon be giving seven open-source Ethereum projects $175,000 to help forward their development. Projects included in this latest wave of grants include Tello, Alice, Lighthouse, and others.
+According to CoinDesk, ConsenSys still has some $220,000 remaining to give away to projects in the Ethereum ecosystem that are important but not entirely profitable.
+All this, Lubin remarked in a tweet, is being done to “jumpstart a more open and transparent Web 3.0.”

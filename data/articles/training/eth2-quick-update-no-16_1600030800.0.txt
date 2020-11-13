@@ -1,0 +1,12 @@
+
+tl;dr
+We realize that both the engineers and the community could use one more public testnet launch before mainnet to run through the motions. At the same time, we want to avoid disrupting Medalla’s momentum. We’ve therefore opted for a shortlived dress rehearsal that will run in parallel to Medalla later this month. Welcome Spadina!
+Spadina will be a (primarily) mainnet configuration testnet with a 3 day end-of-life (EOL). The main objective is to give us all another chance to go through one of the more difficult and risky parts of the process – deposits and genesis – before we reach mainnet. If all goes well, it should give us greater peace of mind before we jump into the real deal later this year.
+If you want to try the latest and greatest iteration of the Lauchpad, get your hands dirty with key generation and management, and check if you can setup your favorite client from scratch once more, then yes! You should most certainly participate.
+If you’ve already participated in multiple testnets, are a whiz at managing keys and multiple clients from the commandline, and regularly write custom systemd configs and monitoring tools in your sleep, then I’ll leave that up to you :)
+Note that Spadina has a 3-day end-of-life. Although the testnet might remain live for some amount of time after this, client teams, block explorers, and other key infrastructure providers will not be providing support for Spadina for longer than 3 days.
+Last week, the EF announced the Medalla Data Challenge in an effort to get more people involved in eth2 analysis and tooling while simultaneously expanding the knowledge base, educational resources, and general understanding of eth2 and its networks.
+Check out the announcement here and start crunching some data for a chance to win up to $15k!
+The Ethereum Foundation and Protocol Labs are funding an audit for the super fast blst BLS12-381 signature library.
+Due to huge performance gains, the blst library (pronounced “blast”), built by Supranational, is quickly becoming the default signature library for eth2 clients. In order to ensure the library meets the standard required for mainnet, we’re seeking an auditor to perform a comprehensive audit of both the low level, optimized code as well as the various language bindings.
+Check out the RFP here. Proposals are due September 18th.

@@ -1,0 +1,22 @@
+Quick take:
+The first week of September saw the total value locked in DeFi fall by 22%
+This was due to decreasing ETH and BTC prices in the first week of September
+The SushiSwap saga might have caused investors to remove their funds from DeFi projects
+The total value locked has risen by 39.5% since the dip due to a crypto market recovery and renewed trust in DeFi
+The first week of September was a rollercoaster ride not only in the crypto-markets but also in the DeFi world as the total value locked in the various platforms fell by 22%.
+This drop by 22% was attributed to two factors. Firstly, there was a major correction in the crypto markets that saw Bitcoin drop below $10k on several occasions. Ethereum also fell hard from around $490 to $300. This sharp price decline definitely affected the fiat value of digital assets locked in DeFi.
+Secondly, Chef Nomi had caused a bit of panic by cashing out his SUSHI for $14 million in Ethereum (ETH). His initial exit might have caused DeFi investors to pull out their funds from the various DeFi platforms thus reducing the total value locked.
+With the crypto markets now stable and the SushiSwap saga now resolved, the total value locked in DeFi has recovered by 39.5% since its bottom. This feat was captured by the team at Unfolded via the following two tweets that demonstrate the initial crash and subsequent recovery.
+Sharp DeFi recovery up 39.5% since the bottom. pic.twitter.com/cUai5lVg9F
+— unfolded. (@cryptounfolded) September 15, 2020
+
+A quick glance at recent news in the crypto-verse reveals that the DeFi industry continues to grow at warp speed. In the past few weeks, we have seen exchanges such as Binance, OKEx, KuCoin, Bitrue and more, start to offer DeFi products on their platforms in a bid to keep up with investor interest.
+This rapid growth in DeFi has fueled several predictions including traditional banks becoming obsolete with time and future Nobel Prizes being awarded based on work related to crypto. Below are tweets providing the two predictions.
+Indeed. Banks are obsolete. #DeFi is a trend now. Projects, like @EquilibriumDeFi can offer you much more higher APY than banks.
+— LuckyCoin (@LuckyCo54858622) September 11, 2020
+
+When will the experimental economists come to DeFi?
+You can test all sorts of hypotheses on the public now.
+In the next thirty years, I'd wager at least a few Nobel Prizes of Economics will be related to crypto.
+— Su Zhu (@zhusu) September 15, 2020
+

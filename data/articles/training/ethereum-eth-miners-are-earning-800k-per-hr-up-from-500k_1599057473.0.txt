@@ -1,0 +1,16 @@
+In brief:
+Ethereum miners are earning an average of $800,000 per hour
+This value is up from yesterday’s peak of $500,000
+High Ethereum network activity due to DeFi has led to a steady increment in ETH gas cost
+In the last 24 hours, Ethereum miners have earned an average of $800,000 per hour. This value is up $300k from yesterday’s estimate of $500,000 per hour in ETH mining revenue. Both instances of Ethereum miners reaping big were captured by the team at Glassnode via the following tweets.
+Average #Ethereum miner revenue from fees has surged to $800,000 per hour (!) in the past 24 hours.
+Chart: https://t.co/BwMlpYKcb1 https://t.co/jnFCJ7Ti2w pic.twitter.com/uLxRgR7vVp
+— glassnode (@glassnode) September 2, 2020
+
+From the first tweet by Glassnode identifying an average of $800k in revenue for miners, it can be observed that on two occasions, Ethereum miners earned as much as $900,000 per hour.
+Further analysis reveals that Uniswap and Tether are still the top two ETH gas guzzlers. According to Etherscan and in the last 3 hours, Uniswap transactions have netted miners a whopping $550,000. In the same time period, Tether transactions have netted Ethereum miners a total of $260,000.
+The relatively new SushiSwap comes a distant fifth with a total of $42,000 in mining fees paid out to miners to confirm transactions from the platform. Below is a screenshot of the top 5 DApps in terms of ETH gas consumption.
+The continual interest in DeFi on the Ethereum network has had a positive impact on the price of ETH. Earlier today, the price of Ethereum looked set to break the $500 psychological level as its value printed a local peak of $489.
+However, the crypto markets suffered a rather major crash led by Bitcoin which fell from $12,000 to $11,100 in less than 24 hours. During the dip, Ethereum fell to as low as $420. This area has now become a short term support area for Ethereum as the crypto markets try to recover from the crash earlier today.
+Ethereum is currently trading at the $440 support zone with the daily chart still exhibiting some bullishness that could see ETH attempt to break $500 in the near future. However, as with all altcoins, Ethereum’s fate is tied to that of Bitcoin.
+As with all analyses of Ethereum, traders and investors are advised to use adequate stop losses and low leverage when trading ETH on the various derivatives platforms.

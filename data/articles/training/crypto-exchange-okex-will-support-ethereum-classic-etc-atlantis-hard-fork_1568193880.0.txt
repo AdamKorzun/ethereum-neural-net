@@ -1,0 +1,12 @@
+Malta-based digital asset exchange OKEx will be supporting the upcoming Atlantis hard fork of the Ethereum Classic (ETC) network.
+The leading exchange confirms that it will support the backwards incompatible upgrade, which will be activated at block height 8,772,000. The fork will most likely take place between September 12 to September 13, 2019.
+OKEx’s management notes that users should deposit their ETC holdings on the trading platform in advance, as the exchange operator will be handling technical issues related to the cryptocurrency’s hard fork.
+OKEx also clarifies that users’ ETC balances will not be affected during the planned upgrade.
+OKEx’s blog post mentions that the exchange will continue its normal services after the ETC mainnet becomes stable, following the hard fork.
+The Ethereum Classic Atlantis update has reportedly been planned to be a consistent, system-wide no-rush fork that will be compatible with Ethereum (ETH).This will allow the developers of both blockchains to work cooperatively on future modifications to the cryptocurrency protocols.
+The ETC hard fork could potentially improve ETC’s overall performance, functionality and stability.
+The codebase modifications associated with Atlantis are designed to enhance interoperability between blockchain networks and various off-chain scaling protocols. ETC Labs, one of the most active contributors to Atlantis, told Cointelegraph in June 2019:
+“The community has had a number of meetings to discuss timing, scope and involvement, and we have decided on the direction and timing of the Atlantis release. So, the decision was made and the community and stakeholders are all moving forward.”
+“Establishing and maintaining interoperable behavior between Ethereum clients is essential for developers and end-user adoption, yielding benefits for all participating chains” including the ETH and ETC blockchains, Ropsten, Morden, Görli and Kotti, according to the Atlantis hard fork proposal posted on Github.
+In January, Ethereum Classic’s development team was notified about a potential attack on the proof-of-work (PoW)-based network by Chinese cybersecurity firm SlowMist.
+The vulnerability might have been created due to the testing of the 1,400/Mh Ethash machines by ASIC manufacturer Linzhi.

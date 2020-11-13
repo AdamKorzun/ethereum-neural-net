@@ -1,0 +1,16 @@
+On Wednesday, crypto giant Coinbase unveiled its latest product: interest on stablecoin USDC deposits. While it’s presumably a tantalizing offering for crypto traders, whose stablecoins currently yield 0%, this offering is easily surmounted by Ethereum decentralized finance (DeFi) apps — if you discount smart contract risk, though.
+Revealed in a blog post published on Wednesday afternoon, Coinbase will now allow eligible U.S. customers to earn interest for every USD Coin (USDC), which is backed 1:1 by USD reserves, that is deposited on the exchange.
+Starting today, eligible US customers will earn 1.25% APY rewards on every USD Coin held on Coinbase. Read more here: https://t.co/IqyStL1OPo pic.twitter.com/yhiAiN4tgw
+— Coinbase (@coinbase) October 2, 2019
+
+This product purportedly abides by the company’s mission to “make crypto accessible to everyone” as “USDC Rewards will enable more customers to take advantage of stablecoin rewards, simply and easily.”
+The APY offered will be 1.25% — meaning that over the course of a year, a $100 deposit could net $1.25. Not a lot but better than nothing. Interest will be paid out on a monthly basis.
+Coinbase’s latest product launch comes after shortly after Binance Lending was unveiled, which gives a limited number of holders the opportunity to earn interest on Bitcoin, Ethereum, Tether, and other cryptocurrencies.
+1.25% is better than nothing, sure. But, much higher interest rates are offered on Ethereum-based DeFi applications. Cryptocurrency data site LoanScan reports that Compound (Dharma), Fulcrum, and Neo — three Etheruem-based lending, borrowing, and trading platforms — offers some 5% on USDC deposits, which is four times the APY that Coinbase is currently providing eligible clients.
+Even some more traditional “CeFi” options offer a higher rate than Coinbase. For instance, Marcus by Goldman Sachs offers 2% APY (on USD), and Celcius Network offers 9.25% on certain stablecoin loans.
+It is important to note, however, that the relatively higher rates through other platforms come with their own inherent risks. With DeFi platforms, there is a chance that an exploit could be found in an application’s smart contracts; with crypto-friendly CeFi platforms, there may be extensive counterparty risk.
+Although likely not tantalizing for users of a DeFi platform like Compound, pundits have argued that Coinbase’s interest product only adds to the network effects of crypto, specifically Ethereum.
+Spencer Noon, a cryptocurrency investor, noted that the return offered on USDC deposits has “massive onboarding potential for Open Finance, leading millions down the Ethereum rabbit hole.”
+Woah! This came out of nowhere @Coinbase.
+— Spencer Noon (@spencernoon) October 2, 2019
+

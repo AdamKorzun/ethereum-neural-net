@@ -1,0 +1,17 @@
+In brief:
+The ETH holdings of the top 10 Ethereum whales has dropped to a 3 month low
+The drop could signify selling but could also be a case of adoption through numerous DApps
+At the same time, the number of addresses holding 100+ Ethereum has reached an all-time high
+Additionally, those holding 32+ ETH and 0.1+ ETH have also hit an all-time high
+ETH holdings of the top ten Ethereum whales have dropped to a three month low. This is according to on-chain data courtesy of the team at Santiment. At first glance, the drop seems like Ethereum whales are selling their bags but it could also mean that they are opting to use their ETH thus pleading the case for widespread adoption. This information was shared by Santiment via the following tweet and corresponding chart showing how the ETH bags of the top 10 Ethereum whales have been dropping.
+— Santiment (@santimentfeed) November 4, 2020
+
+At the same time, and according to Glassnode, the number of Ethereum addresses holding 100 or more ETH reached a new all-time high of 53,019. Additionally, the number of Ethereum addresses holding at least 32 ETH has also hit an all-time high value of 126,852. On the lower end, the number of addresses holding at least 0.1 ETH has also reached an all-time high value of 3,619,568 as highlighted in the following tweet.
+Previous ATH of 3,619,117 was observed on 04 November 2020
+View metric:https://t.co/rW81qhwy4d pic.twitter.com/VVUa9FdwlA
+— glassnode alerts (@glassnodealerts) November 5, 2020
+
+Further dissecting the Ethereum statistics from the team at Glassnode, it can be concluded that Ethereum investors are accumulating ETH due to several reasons.
+Firstly, those holding over 100 ETH are probably playing the long game with Ethereum once staking goes live on ETH2.0. One possibility is that they intend to commit the minimum 32 ETH or all their Ethereum to staking. The same applies to those holding 32 ETH or more.
+Secondly, in the case of addresses holding at least 0.1 ETH, this amount of funds could be an indication of both adoption (in DeFi)  and accumulation in anticipation of Ethereum gaining in the crypto markets.
+In conclusion, the fact that several Ethereum investors are staying put with their holdings is a confirmation that they anticipated brighter days ahead for the value of ETH and the growth of ETH2.0.

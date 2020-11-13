@@ -1,0 +1,14 @@
+Quick take:
+DappRadar has released its Q3 DApp Industry Report
+Ethereum’s transaction volume grew by $109 Billion in Q3 when compared to Q2
+Ethereum continues to dominate as the blockchain with the most DApp activity
+The team at DappRadar has released the Q3 Dapp Industry report which analyses the performance of 13 blockchains in the months of July, August and September.
+According to the report, Q3 saw a total transaction volume of $125 Billion on the 13 blockchains which was $113 billion higher than the second quarter of 2020. Of this $125 Billion, Ethereum transactions took 96% of this value at $119.5 Billion. This amount was $109 Billion higher than Ethereum’s transaction value in Q2 which stood at approximately $10.2 Billion.
+Below is a screenshot from the DAppRadar report of the top blockchain networks and their corresponding transaction volume for the third quarter of 2020.
+Also from the report, the number of Ethereum daily active addresses has risen by an amazing 154% in Q3 when compared to Q2 2020. The increase was due to the popularity of DeFi and Decentralized Exchanges on the Ethereum network.
+When compared to Q3 2019, Ethereum Daily active addresses interacting with DeFi wear relatively low as explained below.
+At the end of Q3 2019, we barely see 3,200 active wallets within the DeFi ecosystem. By the end of Q2 2020, we see around 13,000 active wallets, and by the end of Q3 2020 more than 52,000.
+Growth of around 1,519% year-on-year and around 300% quarter-on-quarter.
+Uniswap (UNI) once again topped the list in terms of having the highest Ethereum Daily active addresses which occupied 74% of the 52,000. UniSwap’s Ethereum Daily active addresses have grown 560% from the previous quarter. Balancer came in second with 1,100 daily active addresses with SushiSwap coming in third with 984.
+The DappRadar Q3 report went on to conclude that 2020 was a very important year for DeFi on the Ethereum network as explained below.
+…2020 is going to be a crucial year for the Ethereum blockchain and its growing DeFi ecosystem. There are major events occurring that mean Ethereum will become even more important than it is now. The success of the DeFi ecosystem is currently defined by the future of the governance token and yield farming craze.

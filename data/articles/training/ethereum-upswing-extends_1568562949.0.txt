@@ -1,0 +1,22 @@
+Ethereum has been leading the cryptocurrency markets over the past several days and weeks, surging from recent lows of below $170 to its current highs of nearly $190. ETH’s ability to surge past $185 – which was a previous support level that was flipped to a resistance level – is a bullish sign.
+This price rise has come about as the Ethereum network is expressing tremendous strength and growth, which may help fuel a long-term uptrend.
+At the time of writing, Ethereum is trading up over 2% at its current price of $190, which marks a significant upswing from its monthly lows of below $170 that were set earlier this month.
+Over a three-month period, ETH is still down significantly from highs of nearly $350, which were set during the peak of the parabolic movement experienced by Bitcoin and most major altcoins earlier this summer.
+Ethereum’s recent upswing may have been driven by improving network health, which comes as demand for ETH’s network reached an all-time-high just yesterday.
+Chris Burniske, a partner at Placeholder, spoke about this in a recent tweet, explaining that Ethereum’s total daily gas used reaching an all-time-high is a positive sign for the demand for ETH’s network.
+“This can be read as: demand for #Ethereum’s world computer is at ATH,” he explained while referencing the below tweet.
+This can be read as: demand for #Ethereum’s world computer is at ATH. https://t.co/lV1hZEBOtc
+— Chris Burniske (@cburniske) September 14, 2019
+
+Rafael Schultze-Kraft, who is helping to build Glassnode, spoke about this in a recent tweet, explaining that the ratio of transactions sending ETH versus all others still shows a consistent uptrend, supporting the notion that the network is seeing a steady influx of demand.
+“Supporting this thesis, I took a look at the ratio of transactions sending $ETH vs all others, showing consistent upwards trend indicating usage of the #Ethereum network other than “just” transferring ETH (~60%),” he explained.
+Supporting this thesis, I took a look at the ratio of transactions sending $ETH vs all others, showing consistent upwards trend indicating usage of the #Ethereum network other than "just" transferring ETH (~60%).@cburniske @sassal0x data source: @glassnode https://t.co/qxVws0y8NT pic.twitter.com/lQQQW3MSlC
+— Rafael Schultze-Kraft (@n3ocortex) September 15, 2019
+
+Schultze-Kraft further added that his data also suggests that gas is increasingly being used for transactions other than those sending ETH, which further supports the notion that the network itself is incurring increasing demand.
+“Similarly, assuming an amount of gas of 21,000 for standard $ETH transfers, gas has increasingly been used for transactions other than those sending ETH (currently at ~88%),” he noted.
+Similarly, assuming an amount of gas of 21,000 for standard $ETH transfers, gas has increasingly been used for transactions other than those sending ETH (currently at ~88%).
+cc: @cburniske @sassal0x data: @glassnode pic.twitter.com/CWvvfoOKVZ
+— Rafael Schultze-Kraft (@n3ocortex) September 15, 2019
+
+Although it remains unclear as to whether or not the Ethereum network’s current health and recent growth is directly translating into positive price action for ETH, but it is certainly a bullish sign for the blockchain’s long-term outlook.

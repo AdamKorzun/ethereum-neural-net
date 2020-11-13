@@ -1,0 +1,11 @@
+Quick take:
+The DeFi boom has led to high ETH fees on the Ethereum network.
+The team at CoinMetrics has concluded retail users are being locked out of DeFi by these high ETH fees.
+Whales are one category of investors who are comfortable with parting with high Ethereum fees.
+The discussion regarding high Ethereum gas fees has reached a fever pitch due to the popularity of DeFi platforms and Yield Farming. At the time of writing, approximately $6.21 Billion in total is locked in DeFi platforms. Of this amount, approximately $5 Billion is locked in the five DeFi projects of Maker(MKR), Aave (LEND), Curve Finance (CRV), Synthetix (SNX) and Compound (COMP).
+The aforementioned 5 projects are all built on the Ethereum network. As with all good things, the popularity of DeFi on the Ethereum network comes at a cost in the form of high gas fees brought about by network congestion. Furthermore, and according to the team at Coinmetrics, the high ETH fees are edging out retail users and leaving DeFi to the whales.
+Coinmetrics explains this fact in their latest issue of the ‘State of the Network’ report which begins by highlighting the recent record-breaking Ethereum fees as follows.
+On August 12th Ethereum’s total daily transactions fees topped $6.87M, shattering the previous all-time high of $4.55M set in January 2018. The following day, Ethereum had $8.61M worth of fees, once again breaking the daily record.
+The report goes on to explain that the rising number of Ethereum transactions due to DeFi, is leading to high transaction fees. As a result of the high ETH fees, some users are being locked out of DeFi. Only whales can afford these fees.
+Rising transaction fees therefore signals that there’s increasing demand for transactions to be quickly confirmed and included in blocks. High transaction fees also leads to higher revenue for miners, as miners receive the fees as part of their reward for securing the network.
+But high transaction fees come at a cost. As average fees increase, certain types of users and applications get priced out. Use cases like games and digital collectibles that depend on large amounts of microtransactions can become prohibitively expensive. And it becomes harder for average, retail users to compete with large, whale investors who can afford to pay high transaction fees.

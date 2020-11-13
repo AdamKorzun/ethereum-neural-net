@@ -1,0 +1,11 @@
+In brief:
+Uniswap has edged out Tether (USDT) in terms of ETH gas consumption.
+In the last 30 days, traders on Uniswap V2 have paid $6.99M in ETH fees.
+The popularity of DeFi is one reason Uniswap is becoming popular.
+A quick glance at ETHGasStation.info reveals that Uniswap has edged out Tether (USDT) in terms of ETH gas fees paid out by users. In the last 30 days, traders on Uniswap have used $6.99 million in gas fees compared to $6.39 million transacting with Tether (USDT). Below is a screenshot demonstrating this fact.
+
+On November 2nd 2018, Uniswap was officially deployed on the Ethereum mainnet. It is a protocol that facilitates the seamless exchange of ERC20 tokens by eliminating the need for intermediaries such as centralized exchanges.
+Uniswap operates via smart contracts that ‘define a standard way of making liquidity pools and corresponding markets that are compatible with each other’. The price of tokens on Uniswap is determined by the amount of each token in a pool.
+The success of Uniswap has inspired other projects such as Tron (TRX), into building their very own decentralized protocol known as JustSwap. The latter allows crypto-traders to seamlessly exchange TRC20 tokens.
+Uniswap edging out Tether in terms of ETH fees, highlights a trend of crypto traders and investors switching their focus to Decentralized Finance platforms. This fact was recently highlighted by Binance CEO, Changpeng Zhao, in an interview at the Boxmining Youtube Channel.
+I think DeFi is a really innovative space and I think that’s really good. Initially, when people talk about DeFi they think about lending so you can lend your coins but now, you lend the coins to provide liquidity. When the liquidity is good, people trade more and trade more easily. I think automatic market makers are an interesting invention and it’s really simple. That aspect of it will stay.

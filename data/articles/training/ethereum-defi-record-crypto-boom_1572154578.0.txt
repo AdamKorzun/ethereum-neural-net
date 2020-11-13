@@ -1,0 +1,19 @@
+If you’ve been following Ethereum’s narrative at all over the past few months, you have likely noticed the growth of the decentralized finance (DeFi) ecosystem.
+While some have written off Ethereum-based finance as a pure fad with little viability, this segment of the cryptocurrency ecosystem is quickly swelling. DeFi Pulse, an analytics group tracking this facet of Ethereum’s network, recently wrote that “we have set a new record for total ETH locked in decentralized finance.”
+Their tracker currently registers a jaw-dropping 2.364 million ETH locked in smart contracts for DeFi. This sum of Ether is worth around $425 million and represents just around 2% of all of the cryptocurrency in circulation. Crazy.
+There's currently 2.364M ETH locked. pic.twitter.com/dO6Qhv1QFB
+
+
+According to Ryan Sean Adams, the founder of Mythos Capital, the growth in DeFi has had a massive knock-on effect on the broader Ethereum market. He found in a recent analysis that with ETH’s issuance coming in at 4.6% annually, DeFi is “sucking up [a fair portion of] new ETH issuance.” Theoretically, this should help the cryptocurrency’s price appreciate into the future.
+Charts on money protocols & ETH:
+1/ Is more ETH getting locked in money protocols than being issued?
+Current ETH issuance: 4.6% annual
+Since Jan 2018 ETH supply grew 12.15%
+ETH locked in DeFi currently consumes half that amount
+DeFi demand is sucking up new ETH issuance pic.twitter.com/kqDmP0tyxG
+
+He went on to point out that MakerDAO’s DAI stablecoin has seen increasing use in money protocols, with 26% of the stablecoin’s supply being locked in said money protocols. Explaining the significance of this statistic, Adams wrote: “This is good for ETH since DAI demand is ETH demand.”
+While DeFi is Ethereum’s top use case at the moment, it is important to note that the blockchain has other functionality.
+For instance, the NBA’s Sacramento Kings last week partnered with CryptoKaiju to offer toys — yes, toys — to its fans for the forthcoming 2019-2020 season. According to the press release, these 100 vinyl collectible figurines will be powered by Ethereum, with each toy being assigned a non-fungible token that ensures that no two Kaijus are the same. 15 out of the 100 toys will purportedly have non-fungible tokens that “reveal” unique experiences or prizes for fans, including courtside seats, VIP tours, signed merchandise from the team’s star, and more.
+Aside from non-fungible tokens, corporations are finding a use for Ethereum-based smart contracts.
+Thomson Reuters, the Canadian media giant, has claimed that it is looking to use OpenLaw, a ConsenSys-backed, Ethereum-centric firm working on automating legal contracts and such. We reported on the matter that the two are working on a proof of concept system, which has been dubbed Smart Contract Express, to imbue Reuters’s existing Contract Express system with the benefits of Ethereum and Chainlink.

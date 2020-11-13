@@ -1,0 +1,24 @@
+Quick take:
+Three Ethereum transactions with high ETH fees were mined last week.
+StarkPool and Ethermine mined two of the transactions and had requested the sender to contact them for possible discussions.
+Almost a week later, the sender has not reached out and both mining pools have opted to distribute the fees to miners.
+Ethermine has decided not to interfere with future payouts of large transaction fees.
+Last week on June 10th and 11th, three transactions on the Ethereum blockchain broke records for the amount of ETH fees the sender opted to spend. The first transaction involved 10,668.73 ETH in fees to send 0.55 Ethereum. The second transaction had a similar value for fees but for sending 350 ETH. The sender of the third transaction was from a different address and paid 2,310 ETH to send 3,221 Ethereum.
+The first two transactions were from the same Ethereum address and mined by the mining pools of StarkPool and Ethermine respectively. Both StarkPool and Ethermine had reached out on social media requesting the owner of the address to contact them to rectify what many in the crypto-verse, thought was a mistake.
+However, almost a week later, the sender of the address has not contacted either mining pool. This has led to a decision by both StarkPool and Ethermine to distribute the fees to miners. Below are tweets from both StarkPool and Ethermine explaining the situation.
+To be responsible for both miners of SparkPool and the transaction sender, we decided to distribute the proceeds seven days after the transaction was mined, aka 15:30 June 17th (GMT+8).
+— SparkPool.eth (@sparkpool_eth) June 16, 2020
+
+While multiple people claimed being the sender of this transaction none of them was able to produce a valid signature of the sending account.
+The distribution will be done according to a miner hashrate snapshot we took at the time block 10241999 was mined by our Ethermine pool.
+— Bitfly (@etherchain_org) June 15, 2020
+
+Additionally, the Ethermine mining pool has announced that they will not interfere with any future large payouts of ETH transaction fees.
+Also we would like to make clarify that in the future we will no longer interfere in the payout of large tx fees. Our advertised payout policy is to always distribute the full block reward and we will be sticking to that independent on the amount involved.
+As earlier mentioned, many individuals in the crypto-verse were inclined to believe that the transactions with high ETH fees were cases of very expensive mistakes. However, evidence emerging points to a situation where a crypto exchange’s wallet was compromised by Hackers.
+The theory is that the said hackers cannot withdraw the funds to just any address but to specific ones on a whitelist. They in turn decided to send ETH with high transaction fees to whitelisted addresses as a means of demanding ransom or continue depleting the said Ethereum accounts.
+Ethereum’s Vitalik Buterin had summarized this theory via the following tweet.
+So the million-dollar txfees *may* actually be blackmail.
+The theory: hackers captured partial access to exchange key; they can't withdraw but can send no-effect txs with any gasprice. So they threaten to "burn" all funds via txfees unless compensated.https://t.co/kEDFGp4gsQ
+— vitalik.eth (@VitalikButerin) June 12, 2020
+

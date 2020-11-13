@@ -1,0 +1,16 @@
+Summary:
+The number of unique Ethereum daily addresses interacting with the ETH network has continued to decline since July
+The decline has accelerated since mid-September
+Back in August, Crypto analyst Timothy Peterson had predicted that Ethereum’s network activity was in a decline and could lead to ETH losing half its value
+The number of daily active addresses on the Ethereum network has continued to decline since its 2020 peak witnessed on July 27th. On this date, the number of unique ETH addresses interacting with the network stood at 523,400. At the time of writing, this number now stands at approximately 377,000 daily Ethereum addresses signifying a 28% drop in activity on the ETH network.
+The team at Santiment has further analyzed Ethereum’s daily active addresses and concluded that the decline has increased since September 17th. The team shared their analysis via the following tweet with a chart showing the decline in Ethereum’s daily active addresses (yellow histograms in the chart).
+— Santiment (@santimentfeed) October 11, 2020
+
+Back in late August, Crypto Analyst Timothy Peterson had cautioned that the price of ETH could be facing a decline based on Ethereum’s Metcalfe value. According to Mr. Peterson, Ethereum’s long term network growth only supports an average annual price increment of 30%. Therefore, the price of Ethereum at the time above $400, could lose approximately 50% of its value within the next 12 months. Mr. Peterson shared his analysis via the following tweet.
+Pessimistic about #Ethereum price for the foreseeable future. Long-term growth rate only supports average annual price appreciation of 30% per year. $ETH could lose 50% in the next 12 months. pic.twitter.com/jBdApEAWXG
+— Timothy Peterson (@nsquaredcrypto) August 21, 2020
+
+At the time of his tweet, Ethereum was trading at $410 after facing stiff resistance as it attempted to break the $450 price level. Bitcoin had also attempted to break the $12,500 resistance level only to drop back down to $10k in early September.
+Using the $450 price level, a 50% drop in Ethereum’s value would be around $225 by August 2021.
+Further checking the crypto markets, Ethereum recently tested the $390 resistance as Bitcoin attempted to break $11,400. It is a well-known fact that Ethereum’s fate in the crypto markets is tied to that of Bitcoin. Therefore, any further drop of BTC in the markets will also result in ETH also dipping in value.
+With Ethereum’s daily active addresses in a state of decline, the 50% drop foreshadowed by Mr. Peterson could be playing out albeit at a slow pace given that ETH2.0 should launch before the end of 2020.

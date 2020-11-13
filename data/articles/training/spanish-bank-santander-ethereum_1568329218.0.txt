@@ -1,0 +1,14 @@
+Santander just took Ethereum-based finance to a whole new level.
+The Spanish bank announced on Thursday morning that it had settled a $20 million bond through ERC-20 tokens, which represented custodied cash, on the public iteration of the Ethereum blockchain, marking the seeming first time that a financial institution has used the public network to make such a transaction. As CoinDesk wrote on the matter:
+Previously, the World Bank issued a similar blockchain bond but used a private version of ethereum. French lender Societe Generale issued a bond earlier this year on the public ethereum network but said nothing about cash on-ledger.
+Santander’s move to make use of Ethereum for the settlement for a large bond comes after Reddit users accused the company of being anti-crypto.
+For those who missed the memo, in August, a Reddit user claimed to have been told by a Santander representative that the bank was blocking U.K. customers from using their accounts at the bank to fund their Coinbase accounts, presumably to buy Bitcoin. This report came after Barclays severed its business relationship with Coinbase, marking a blow for the U.K. branch of the exchange.
+A press representative from the bank later told CoinTelegraph:
+“We do not block payments to any legitimate company, however in certain circumstances we will refer payments for additional security checks, where we believe there may be a higher risk of fraud.”
+Santander’s recent use of Ethereum, a public blockchain, should put this rumor that the bank is entirely anti-Bitcoin and anti-blockchain to rest.
+While $20 million isn’t a large sum in the grand scheme of things — even in a market as relatively small as cryptocurrency — this is the latest sign that Ethereum’s fundamentals remain strong, in spite of the long, drawn-out collapse in the price of the asset.
+The project has recently seen its decentralized finance (DeFi) ecosystem — which some say is Ethereum’s calling — explode, drawing in interest from Coinbase and other industry startups. In a world with increasingly negative interest rates, the higher rates that Ethereum-based solutions can offer are (and will likely continue to be) tantalizing for investors the world over.
+Also, on top of the strong fundamentals and news events around the project, analysts have said that the cryptocurrency is poised to head higher at long last. Analyst InSilico recently posted the tweet below, showing that Ethereum is showing signs that it wants to finally break from the downward channel it has been stuck in for months. He shows that Ethereum has been testing the upper bound of the aforementioned channel multiple times, implying bulls are looking to take over, and the Fisher indicator has shown a series of higher bottoms, implying bears are losing steam.
+Building a long pic.twitter.com/No6Avrd6sZ
+— InSilico (@ISilico) September 7, 2019
+

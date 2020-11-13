@@ -1,0 +1,12 @@
+Regardless of one’s opinion on whether Ethereum is dying or not, cross-compatibility between tokens is clearly beneficial for moving the industry forward.
+Telegram is not the first messaging app company to be offering a token. Alongside the announcement of Gram, was Kik’s announcement of their own crypto, known as Kin, to much controversy.
+Unlike Kin, Gram seems to be moving full steam ahead.
+After October 31st, Telegram is required to issue refunds to investors in its token sale, as stated in the user agreement. The messaging service raised over $1.7 billion in 2018 for the project.
+As part of the crypto project, a startup has been created by investors in Gram, known as TON Labs. The company is responsible for building developer tools that will facilitate building upon the new network. As TON Labs CEO and managing partner Alexander Filatov told CoinDesk, included in those tools with be a Solidity compiler, which will enable decentralized apps built on Ethereum to also run on TON.
+Filatov elaborated on the endeavor:
+That was probably the most difficult thing we built. It will allow the advanced Ethereum community to pull everything they wrote for ethereum into TON.
+Filatov added that the Solidity compiler has been in testing since July. In fact, the upcoming code release on Sunday will be paramount to the success of Gram:
+We have very little time between the node release and the mainnet launch to test, identify and fix possibly bugs and vulnerabilities.
+Earlier this year, Telegram shared code with investors, which was promptly leaked to the public. The code allowed moderate tinkering with the blockchain’s anticipated functions:
+You can play with GRAMs, write a simple smart contract talking to the node via a light client [and] create a wallet.
+If all goes well, the release on Sunday should be the last in a series of code releases by the company.
