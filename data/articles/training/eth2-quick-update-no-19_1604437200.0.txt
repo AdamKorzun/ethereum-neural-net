@@ -1,6 +1,0 @@
-
-tl;dr
-Today, we released v1.0 of the eth2 specs, including the mainnet deposit contract address – 0x00000000219ab540356cBB839Cbe05303d7705Fa. eth2 will have a MIN_GENESIS_TIME of 1606824000 (or for those of you who don’t think in unix time – December 1, 2020, 12pm UTC).
-To trigger genesis at this time, there must be at least 16384 32-ETH validator deposits 7 days prior to December 1. If not, genesis will be triggered 7 days after this threshold has been met (whenever that may be). For a more detailed discussion of how genesis is kicked off, see Ben Edgington’s genesis writeup.
-As an additional utility, our friends at ENS configured depositcontract.eth to resolve to0x00000000219ab540356cBB839Cbe05303d7705Fa, renewed the domain until 2150, and burned the ownership.
-The mainnet Launch Pad is up. If you are using the deposit CLI to generate your deposits, the commit hash for v1.0.0 is 9310de0ff3e1154c718a260ce3e5c71e9f187133.
